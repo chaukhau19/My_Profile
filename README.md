@@ -67,7 +67,7 @@ Welcome to my GitHub profile! I am Nguyễn Thị Châu Khâu, a QA/QC professio
 ### [Music]
 ### [Ecommerce]
 ### [AI BlockChain]
-### [Game]
+### [Telegram Game]
 ### [Crypto]
 ### [DApps]
 
