@@ -64,9 +64,10 @@ Welcome to my GitHub profile! I am Nguyễn Thị Châu Khâu, a QA/QC professio
 
 ### [Telecom](https://www.cirpack.com/)
 ### [Healthcare](https://bestmed.au/)
-### [Music]
-### [Ecommerce]
-### [AI BlockChain]
+### [Music](https://music.busai.me/new_music)
+### [Ecommerce](https://tonic.tongram.app/vi)
+### [AI BlockChain](https://app.friendify.ai/)
+### [AI BlockChain](https://gpt.busai.me/chatgpt)
 ### [Telegram Game]
 ### [Crypto]
 ### [DApps]
