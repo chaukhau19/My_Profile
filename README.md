@@ -62,8 +62,8 @@ Welcome to my GitHub profile! I am Nguyễn Thị Châu Khâu, a QA/QC professio
 
 ## 🌿 Highlighted Projects
 
-### [Telecom]([Cirpack](https://www.cirpack.com/))
-### [Healthcare]([Bestmed](https://bestmed.au/))
+### [Telecom](https://www.cirpack.com/)
+### [Healthcare](https://bestmed.au/)
 ### [Music]
 ### [Ecommerce]
 ### [AI BlockChain]
