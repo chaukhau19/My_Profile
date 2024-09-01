@@ -69,8 +69,8 @@ Welcome to my GitHub profile! I am Nguyễn Thị Châu Khâu, a QA/QC professio
 ### [AI BlockChain](https://friendify.ai/)
 ### [AI BlockChain](https://gpt.busai.me/welcome)
 ### [Telegram Game]
-### [Crypto]
-### [DApps]
+### [Crypto](https://winery.finance/info/overview)
+### [DApps](https://dev.tongram.app/vi)
 
 ## 🏆 Achievements
 
