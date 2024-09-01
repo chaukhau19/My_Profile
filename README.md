@@ -66,11 +66,17 @@ Welcome to my GitHub profile! I am Nguyễn Thị Châu Khâu, a QA/QC professio
 ### [Healthcare](https://bestmed.au/)
 ### [Music](https://music.busai.me/new_music)
 ### [Ecommerce](https://tonic.tongram.app/vi)
-### [AI BlockChain](https://friendify.ai/)
-### [AI BlockChain](https://gpt.busai.me/welcome)
-### [Telegram Game]
-### [Crypto](https://winery.finance/info/overview)
+### [AI BlockChain 1](https://friendify.ai/)
+### [AI BlockChain 2](https://gpt.busai.me/welcome)
+### [Crypto 1](https://winery.finance/info/overview)
+### [Crypto 2](https://tongram.app/en)
+### [Crypto 3](https://production.d3id4w7b92r2rv.amplifyapp.com/)
+### [Crypto 4](https://swap.poolswinery.it/swap)
+### [Crypto 5](https://bridge.poolswinery.it/transactions)
+### [Crypto 6](https://winery.finance/)
 ### [DApps](https://dev.tongram.app/vi)
+### [Telegram Game](https://t.me/piston_dev_bot/pistonhubdev)
+
 
 ## 🏆 Achievements
 
