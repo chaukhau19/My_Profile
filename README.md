@@ -81,9 +81,9 @@ Welcome to my GitHub profile! I am Nguyễn Thị Châu Khâu, a QA/QC professio
 ## 🏆 Achievements
 
 - Successfully managed and executed over 15,000 test cases across multiple versions.
-- Built an automation framework from scratch for a project, improving test efficiency and coverage.
-- Enhanced automation framework, reducing test execution time by 30%, passrate 100%.
-- Identified and reported critical bugs, leading to a 99% reduction in post-release defects.
+- Build multiple automation frameworks from scratch for multiple projects, improving efficiency and test coverage.
+- Advanced automation framework, 30% reduction in test execution time, 100% pass rate.
+- Identify and report critical bugs, helping reduce post-release errors by 99%.
 
 ## 🤝 How to Contribute
 
