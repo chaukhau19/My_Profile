@@ -67,15 +67,30 @@ Welcome to my GitHub profile! I am Nguyễn Thị Châu Khâu, a QA/QC professio
 
 ## 🌿 Highlighted Projects
 
-### [Telecom](https://www.cirpack.com/) | [Healthcare](https://bestmed.au/) | [Music](https://music.busai.me/new_music)  
-*Developed and executed automated testing solutions to enhance software reliability and performance.* | *Managed testing for critical healthcare applications, ensuring compliance and high-quality standards.* | *Implemented user-friendly test strategies for a seamless music streaming experience.*
+### Telecom
+- [Telecom](https://www.cirpack.com/)
 
-### [Ecommerce](https://tonic.tongram.app/vi) | [AI BlockChain 1](https://friendify.ai/) | [AI BlockChain 2](https://gpt.busai.me/welcome)  
-*Created end-to-end test cases to optimize the online shopping experience.* | *Collaborated on testing blockchain solutions to improve security and efficiency.* | *Validated AI functionalities within blockchain applications for enhanced user interaction.*
+### Healthcare
+- [Healthcare](https://bestmed.au/)
 
-### [Crypto Projects](https://winery.finance/info/overview) | [DApps](https://dev.tongram.app/vi) | [Telegram Game](https://t.me/piston_dev_bot/pistonhubdev)  
-*Conducted extensive testing across various crypto platforms to ensure security and functionality.* | *Developed automated tests for decentralized applications to improve user experience.* | *Tested a unique gaming experience on Telegram, ensuring smooth gameplay and interaction.*
-
+### Music
+- [Music](https://music.busai.me/new_music)
+### E-commerce
+- [Ecommerce](https://tonic.tongram.app/vi)
+### AI & Blockchain
+- [AI](https://friendify.ai/)
+- [AI BlockChain 2](https://gpt.busai.me/welcome)
+### Crypto
+- [Crypto 1](https://winery.finance/info/overview)
+- [Crypto 2](https://tongram.app/en)
+- [Crypto 3](https://production.d3id4w7b92r2rv.amplifyapp.com/)
+- [Crypto 4](https://swap.poolswinery.it/swap)
+- [Crypto 5](https://bridge.poolswinery.it/transactions)
+- [Crypto 6](https://winery.finance/)
+### DApps
+- [DApps](https://dev.tongram.app/vi)
+### Games
+- [Telegram Game](https://t.me/piston_dev_bot/pistonhubdev)
 
 ## 🏆 Achievements
 
