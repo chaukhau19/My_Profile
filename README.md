@@ -108,6 +108,6 @@ Feel free to fork this repository and contribute by creating pull requests. You 
 
 ## 📫 Connect with me:
 [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail)](mailto:chaukhau2000@gmail.com)
-- **Zalo:** 0327720369
+[![Zalo](https://img.shields.io/badge/-Zalo-0078D4?style=flat&logo=zalo)](https://zalo.me/0327720369) - **0327720369**
 
 Thank you for visiting my profile! 🌟
