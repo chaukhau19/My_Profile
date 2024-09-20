@@ -26,7 +26,6 @@ Welcome to my GitHub profile! I am Nguyễn Thị Châu Khâu, a QA/QC professio
 ## **IDEs:**
 ![VS Code](https://img.shields.io/badge/-VS_Code-blue?style=flat&logo=visualstudiocode) 
 ![PyCharm](https://img.shields.io/badge/-PyCharm-green?style=flat&logo=pycharm)
-![IntelliJ](https://img.shields.io/badge/-IntelliJ-blueviolet?style=flat&logo=intellijidea)
 
 ## 🛠️ Skills & Tools
 
