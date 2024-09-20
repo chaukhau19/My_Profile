@@ -29,6 +29,20 @@ Welcome to my GitHub profile! I am Nguyễn Thị Châu Khâu, a QA/QC professio
 
 ## 🛠️ Skills & Tools
 
+## **CI-CD & Server:**
+![VMWare](https://img.shields.io/badge/-VMWare-0078D4?style=flat&logo=vmware)
+![DevOps](https://img.shields.io/badge/-DevOps-0E76A8?style=flat&logo=devops)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins)
+
+## **OS:**
+![Windows](https://img.shields.io/badge/-Windows-0078D4?style=flat&logo=microsoftwindows) 
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux)
+
+## **Databases:**
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite) 
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)
+![CLI](https://img.shields.io/badge/-CLI-2E7C2E?style=flat&logo=gnu-bash)
+
 - **Manual Testing:**
   - Requirement Analysis
   - Test Case Design
