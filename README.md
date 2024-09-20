@@ -1,25 +1,17 @@
 # 🌟 QA/QC Manual & Automation Specialist 🌟
 
-Welcome to my GitHub profile! I am Nguyễn Thị Châu Khâu, a QA/QC professional with over x years of experience in Manual and Automation Testing. My expertise lies in creating robust test plans, designing test cases, and implementing automated testing solutions to ensure high-quality software delivery.
+Welcome to my GitHub profile! I am Nguyễn Thị Châu Khâu, a QA/QC professional with over 3 years of experience in Manual and Automation Testing. My expertise lies in creating robust test plans, designing test cases, and implementing automated testing solutions to ensure high-quality software delivery.
 ## 🛠️ Tech Stack
 
 ## **Manual Testing:**
 ![Requirement Analysis](https://img.shields.io/badge/-Requirement_Analysis-FF5733?style=flat)
+![Test Planning](https://img.shields.io/badge/-Test_Planning-F39C12?style=flat)
 ![Test Case Design](https://img.shields.io/badge/-Test_Case_Design-FFC300?style=flat)
+![Test Execution](https://img.shields.io/badge/-Test_Execution-007BFF?style=flat)
 ![Bug Reporting](https://img.shields.io/badge/-Bug_Reporting-DAF7A6?style=flat)
 ![Regression Testing](https://img.shields.io/badge/-Regression_Testing-581845?style=flat)
-![Test Execution](https://img.shields.io/badge/-Test_Execution-007BFF?style=flat)
 ![Defect Tracking](https://img.shields.io/badge/-Defect_Tracking-28A745?style=flat)
-![Test Planning](https://img.shields.io/badge/-Test_Planning-F39C12?style=flat)
 ![User Acceptance Testing](https://img.shields.io/badge/-User_Acceptance_Testing-8E44AD?style=flat)
-![Test Closure](https://img.shields.io/badge/-Test_Closure-2C3E50?style=flat)
-
-## **Languages:**
-![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python) 
-![Robot Framework](https://img.shields.io/badge/-Robot_Framework-green?style=flat&logo=robotframework)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=JavaScript)
-![Java](https://img.shields.io/badge/-Java-red?style=flat&logo=Java)
-![Shell Script](https://img.shields.io/badge/-Shell_Script-2E7C2E?style=flat&logo=gnu-bash)
 
 ## **Automation Tools:**
 ![Selenium](https://img.shields.io/badge/-Selenium-blue?style=flat&logo=selenium) 
@@ -30,15 +22,22 @@ Welcome to my GitHub profile! I am Nguyễn Thị Châu Khâu, a QA/QC professio
 ![Cypress](https://img.shields.io/badge/-Cypress-darkgreen?style=flat&logo=cypress)
 ![JMeter](https://img.shields.io/badge/-JMeter-red?style=flat&logo=apachejmeter)
 
-## **Version Control:**
-![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git) 
-![GitHub](https://img.shields.io/badge/-GitHub-grey?style=flat&logo=github) 
-![SVN](https://img.shields.io/badge/-SVN-blue?style=flat&logo=subversion)
+## **Languages:**
+![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python) 
+![Robot Framework](https://img.shields.io/badge/-Robot_Framework-green?style=flat&logo=robotframework)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=JavaScript)
+![Java](https://img.shields.io/badge/-Java-red?style=flat&logo=Java)
+![Shell Script](https://img.shields.io/badge/-Shell_Script-2E7C2E?style=flat&logo=gnu-bash)
 
 ## **CI-CD & Server:**
 ![VMWare](https://img.shields.io/badge/-VMWare-0078D4?style=flat&logo=vmware)
 ![DevOps](https://img.shields.io/badge/-DevOps-0E76A8?style=flat&logo=devops)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins)
+
+## **Version Control:**
+![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git) 
+![GitHub](https://img.shields.io/badge/-GitHub-grey?style=flat&logo=github) 
+![SVN](https://img.shields.io/badge/-SVN-blue?style=flat&logo=subversion)
 
 ## **Bug Tracking:**
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira) 
