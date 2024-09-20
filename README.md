@@ -1,6 +1,12 @@
 # 🌟 QA/QC Manual & Automation Specialist 🌟
 
 Welcome to my GitHub profile! I am Nguyễn Thị Châu Khâu, a QA/QC professional with over x years of experience in Manual and Automation Testing. My expertise lies in creating robust test plans, designing test cases, and implementing automated testing solutions to ensure high-quality software delivery.
+## 🛠️ Tech Stack
+
+- **Languages:** ![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python) ![Robot Framework](https://img.shields.io/badge/-Robot_Framework-green?style=flat&logo=robotframework)
+- **Automation Tools:** ![Selenium](https://img.shields.io/badge/-Selenium-blue?style=flat&logo=selenium) ![Postman](https://img.shields.io/badge/-Postman-orange?style=flat&logo=postman) 
+- **Version Control:** ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-grey?style=flat&logo=github)
+- **IDEs:** ![VS Code](https://img.shields.io/badge/-VS_Code-blue?style=flat&logo=visualstudiocode) ![PyCharm](https://img.shields.io/badge/-PyCharm-green?style=flat&logo=pycharm)
 
 ## 🛠️ Skills & Tools
 
