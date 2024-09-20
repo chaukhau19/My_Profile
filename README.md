@@ -3,10 +3,30 @@
 Welcome to my GitHub profile! I am Nguyễn Thị Châu Khâu, a QA/QC professional with over x years of experience in Manual and Automation Testing. My expertise lies in creating robust test plans, designing test cases, and implementing automated testing solutions to ensure high-quality software delivery.
 ## 🛠️ Tech Stack
 
-- **Languages:** ![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python) ![Robot Framework](https://img.shields.io/badge/-Robot_Framework-green?style=flat&logo=robotframework)
-- **Automation Tools:** ![Selenium](https://img.shields.io/badge/-Selenium-blue?style=flat&logo=selenium) ![Postman](https://img.shields.io/badge/-Postman-orange?style=flat&logo=postman) 
-- **Version Control:** ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-grey?style=flat&logo=github)
-- **IDEs:** ![VS Code](https://img.shields.io/badge/-VS_Code-blue?style=flat&logo=visualstudiocode) ![PyCharm](https://img.shields.io/badge/-PyCharm-green?style=flat&logo=pycharm)
+## **Languages:**
+![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python) 
+![Robot Framework](https://img.shields.io/badge/-Robot_Framework-green?style=flat&logo=robotframework)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=JavaScript)
+![Java](https://img.shields.io/badge/-Java-red?style=flat&logo=Java)
+
+## **Automation Tools:**
+![Selenium](https://img.shields.io/badge/-Selenium-blue?style=flat&logo=selenium) 
+![Postman](https://img.shields.io/badge/-Postman-orange?style=flat&logo=postman) 
+![SoapUI](https://img.shields.io/badge/-SoapUI-green?style=flat&logo=soapui)
+![Appium](https://img.shields.io/badge/-Appium-purple?style=flat&logo=appium)
+![Playwright](https://img.shields.io/badge/-Playwright-brightgreen?style=flat&logo=playwright)
+![Cypress](https://img.shields.io/badge/-Cypress-darkgreen?style=flat&logo=cypress)
+![JMeter](https://img.shields.io/badge/-JMeter-red?style=flat&logo=apachejmeter)
+
+## **Version Control:**
+![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git) 
+![GitHub](https://img.shields.io/badge/-GitHub-grey?style=flat&logo=github) 
+![SVN](https://img.shields.io/badge/-SVN-blue?style=flat&logo=subversion)
+
+## **IDEs:**
+![VS Code](https://img.shields.io/badge/-VS_Code-blue?style=flat&logo=visualstudiocode) 
+![PyCharm](https://img.shields.io/badge/-PyCharm-green?style=flat&logo=pycharm)
+![IntelliJ](https://img.shields.io/badge/-IntelliJ-blueviolet?style=flat&logo=intellijidea)
 
 ## 🛠️ Skills & Tools
 
