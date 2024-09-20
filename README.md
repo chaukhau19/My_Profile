@@ -8,6 +8,7 @@ Welcome to my GitHub profile! I am Nguyễn Thị Châu Khâu, a QA/QC professio
 ![Robot Framework](https://img.shields.io/badge/-Robot_Framework-green?style=flat&logo=robotframework)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=JavaScript)
 ![Java](https://img.shields.io/badge/-Java-red?style=flat&logo=Java)
+![Shell Script](https://img.shields.io/badge/-Shell_Script-2E7C2E?style=flat&logo=gnu-bash)
 
 ## **Automation Tools:**
 ![Selenium](https://img.shields.io/badge/-Selenium-blue?style=flat&logo=selenium) 
@@ -42,6 +43,14 @@ Welcome to my GitHub profile! I am Nguyễn Thị Châu Khâu, a QA/QC professio
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite) 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)
 ![CLI](https://img.shields.io/badge/-CLI-2E7C2E?style=flat&logo=gnu-bash)
+![Configuration File](https://img.shields.io/badge/-Configuration_File-2E7C2E?style=flat&logo=gnu-bash)
+
+## **UI/UX Design:**
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma)
+
+## **Bug Tracking:**
+![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira) 
+![Redmine](https://img.shields.io/badge/-Redmine-8B0000?style=flat&logo=redmine)
 
 - **Manual Testing:**
   - Requirement Analysis
