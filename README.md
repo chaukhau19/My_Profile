@@ -67,24 +67,24 @@ Welcome to my GitHub profile! I am Nguyễn Thị Châu Khâu, a QA/QC professio
 
 ## 🌿 Highlighted Projects
 
-| **Telecom**              | **Healthcare**          | **Music**                 |
-|--------------------------|------------------------|---------------------------|
-| [Cirpack](https://www.cirpack.com/) | [Healthcare](https://bestmed.au/) | [Busai Music](https://music.busai.me/new_music) |
+| **Telecom**            ----------------------------  |-------------- **Healthcare**      ---------------   | **Music**           -------------------------------------------------      |
+|------------------------------------------------------|-----------------------------------------------------|----------------------------------------------------------------------------|
+| [Cirpack](https://www.cirpack.com/) --------------   | [Healthcare](https://bestmed.au/) ---------------   | [Busai Music](https://music.busai.me/new_music)                            |
 
 
-| **Ecommerce**            | **AI & Blockchain**     | **Crypto**                |
-|--------------------------|------------------------|---------------------------|
-| [Tonic](https://tonic.tongram.app/vi) | [Friendify GPT](https://friendify.ai/) | [Winery Finance](https://winery.finance/info/overview) |
-|                          | [Busai GPT](https://gpt.busai.me/welcome) | [Tongram](https://tongram.app/en) |
-|                          | [Ton Translate](https://gpt.busai.me/welcome) |  |
-|                          | [AI VOCALOID](https://ari.aurumai.io/dashboard/) | [Pools Winery Swap](https://swap.poolswinery.it/swap) |
-|                          |                        | [Pools Winery Transactions](https://bridge.poolswinery.it/transactions) |
-|                          |                        |  |
+| **Ecommerce**   --------------  --------------       | **AI & Blockchain**  -----------------------------  | **Crypto**         -------------------------------------------------       |
+|------------------------------------------------------|-----------------------------------------------------|----------------------------------------------------------------------------|
+| [Tonic](https://tonic.tongram.app/vi) -------------- | [Friendify GPT](https://friendify.ai/)   -------    | [Winery Finance](https://winery.finance/info/overview)                     |
+|                                                      | [Busai GPT](https://gpt.busai.me/welcome) -------   | [Tongram](https://tongram.app/en)                                          |
+|                  --------------      --------------  | [Ton Translate](https://gpt.busai.me/welcome)       |                                                                            |
+|                  --------------     --------------   | [AI VOCALOID](https://ari.aurumai.io/dashboard/)    | [Pools Winery Swap](https://swap.poolswinery.it/swap)                      |
+|                 --------------      --------------   |                                                     | [Pools Winery Transactions](https://bridge.poolswinery.it/transactions)    |
+|                  --------------     --------------   |                                                     |                                                                            |
 
 
-| **DApps**                | **Games**               |
-|--------------------------|------------------------|
-| [DApps](https://dev.tongram.app/vi) | [Piston](https://t.me/piston_dev_bot/pistonhubdev) |
+| **DApps**                                            | **Games**                                           |
+|--------------------------                            |------------------------                             |
+| [DApps](https://dev.tongram.app/vi)                  | [Piston](https://t.me/piston_dev_bot/pistonhubdev)  |
 
 
 ## 🏆 Achievements
