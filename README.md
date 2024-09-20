@@ -69,20 +69,20 @@ Welcome to my GitHub profile! I am Nguyễn Thị Châu Khâu, a QA/QC professio
 
 | **Telecom**              | **Healthcare**          | **Music**                 |
 |--------------------------|------------------------|---------------------------|
-| [Telecom](https://www.cirpack.com/) | [Healthcare](https://bestmed.au/) | [Music](https://music.busai.me/new_music) |
+| [Cirpack](https://www.cirpack.com/) | [Healthcare](https://bestmed.au/) | [BusaiMusic](https://music.busai.me/new_music) |
 
 | **Ecommerce**            | **AI & Blockchain**     | **Crypto**                |
 |--------------------------|------------------------|---------------------------|
-| [Ecommerce](https://tonic.tongram.app/vi) | [AI BlockChain 1](https://friendify.ai/) | [Crypto 1](https://winery.finance/info/overview) |
-|                          | [AI BlockChain 2](https://gpt.busai.me/welcome) | [Crypto 2](https://tongram.app/en) |
-|                          |                        | [Crypto 3](https://production.d3id4w7b92r2rv.amplifyapp.com/) |
-|                          |                        | [Crypto 4](https://swap.poolswinery.it/swap) |
-|                          |                        | [Crypto 5](https://bridge.poolswinery.it/transactions) |
+| [Tonic](https://tonic.tongram.app/vi) | [Friendify GPT](https://friendify.ai/) | [Winery Finance](https://winery.finance/info/overview) |
+|                          | [Busai GPT](https://gpt.busai.me/welcome) | [Tongram](https://tongram.app/en) |
+|                          |                        |  |
+|                          |                        | [Pools Winery Swap](https://swap.poolswinery.it/swap) |
+|                          |                        | [Pools Winery Transactions](https://bridge.poolswinery.it/transactions) |
 |                          |                        | [Crypto 6](https://winery.finance/) |
 
 | **DApps**                | **Games**               |
 |--------------------------|------------------------|
-| [DApps](https://dev.tongram.app/vi) | [Telegram Game](https://t.me/piston_dev_bot/pistonhubdev) |
+| [DApps](https://dev.tongram.app/vi) | [Piston](https://t.me/piston_dev_bot/pistonhubdev) |
 
 
 ## 🏆 Achievements
