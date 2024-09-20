@@ -67,32 +67,19 @@ Welcome to my GitHub profile! I am Nguyễn Thị Châu Khâu, a QA/QC professio
 
 ## 🌿 Highlighted Projects
 
-### [Telecom](https://www.cirpack.com/)
-*Developed and executed automated testing solutions to enhance software reliability and performance.*
+| Project | Description |
+| ------- | ----------- |
+| [Telecom](https://www.cirpack.com/) | Developed and executed automated testing solutions to enhance software reliability and performance. |
+| [Healthcare](https://bestmed.au/) | Managed testing for critical healthcare applications, ensuring compliance and high-quality standards. |
+| [Music](https://music.busai.me/new_music) | Implemented user-friendly test strategies for a seamless music streaming experience. |
+| [Ecommerce](https://tonic.tongram.app/vi) | Created end-to-end test cases to optimize the online shopping experience. |
+| [AI BlockChain 1](https://friendify.ai/) | Collaborated on testing blockchain solutions to improve security and efficiency. |
+| [AI BlockChain 2](https://gpt.busai.me/welcome) | Validated AI functionalities within blockchain applications for enhanced user interaction. |
+| [Crypto Projects](https://winery.finance/info/overview) | Conducted extensive testing across various crypto platforms to ensure security and functionality. |
+| [DApps](https://dev.tongram.app/vi) | Developed automated tests for decentralized applications to improve user experience. |
+| [Telegram Game](https://t.me/piston_dev_bot/pistonhubdev) | Tested a unique gaming experience on Telegram, ensuring smooth gameplay and interaction. |
 
-### [Healthcare](https://bestmed.au/)
-*Managed testing for critical healthcare applications, ensuring compliance and high-quality standards.*
 
-### [Music](https://music.busai.me/new_music)
-*Implemented user-friendly test strategies for a seamless music streaming experience.*
-
-### [Ecommerce](https://tonic.tongram.app/vi)
-*Created end-to-end test cases to optimize the online shopping experience.*
-
-### [AI BlockChain 1](https://friendify.ai/)
-*Collaborated on testing blockchain solutions to improve security and efficiency.*
-
-### [AI BlockChain 2](https://gpt.busai.me/welcome)
-*Validated AI functionalities within blockchain applications for enhanced user interaction.*
-
-### [Crypto Projects](https://winery.finance/info/overview)
-*Conducted extensive testing across various crypto platforms to ensure security and functionality.*
-
-### [DApps](https://dev.tongram.app/vi)
-*Developed automated tests for decentralized applications to improve user experience.*
-
-### [Telegram Game](https://t.me/piston_dev_bot/pistonhubdev)
-*Tested a unique gaming experience on Telegram, ensuring smooth gameplay and interaction.*
 
 ## 🏆 Achievements
 
