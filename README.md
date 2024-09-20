@@ -3,6 +3,17 @@
 Welcome to my GitHub profile! I am Nguyễn Thị Châu Khâu, a QA/QC professional with over x years of experience in Manual and Automation Testing. My expertise lies in creating robust test plans, designing test cases, and implementing automated testing solutions to ensure high-quality software delivery.
 ## 🛠️ Tech Stack
 
+## **Manual Testing:**
+![Requirement Analysis](https://img.shields.io/badge/-Requirement_Analysis-FF5733?style=flat)
+![Test Case Design](https://img.shields.io/badge/-Test_Case_Design-FFC300?style=flat)
+![Bug Reporting](https://img.shields.io/badge/-Bug_Reporting-DAF7A6?style=flat)
+![Regression Testing](https://img.shields.io/badge/-Regression_Testing-581845?style=flat)
+![Test Execution](https://img.shields.io/badge/-Test_Execution-007BFF?style=flat)
+![Defect Tracking](https://img.shields.io/badge/-Defect_Tracking-28A745?style=flat)
+![Test Planning](https://img.shields.io/badge/-Test_Planning-F39C12?style=flat)
+![User Acceptance Testing](https://img.shields.io/badge/-User_Acceptance_Testing-8E44AD?style=flat)
+![Test Closure](https://img.shields.io/badge/-Test_Closure-2C3E50?style=flat)
+
 ## **Languages:**
 ![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python) 
 ![Robot Framework](https://img.shields.io/badge/-Robot_Framework-green?style=flat&logo=robotframework)
@@ -24,16 +35,18 @@ Welcome to my GitHub profile! I am Nguyễn Thị Châu Khâu, a QA/QC professio
 ![GitHub](https://img.shields.io/badge/-GitHub-grey?style=flat&logo=github) 
 ![SVN](https://img.shields.io/badge/-SVN-blue?style=flat&logo=subversion)
 
-## **IDEs:**
-![VS Code](https://img.shields.io/badge/-VS_Code-blue?style=flat&logo=visualstudiocode) 
-![PyCharm](https://img.shields.io/badge/-PyCharm-green?style=flat&logo=pycharm)
-
-## 🛠️ Skills & Tools
-
 ## **CI-CD & Server:**
 ![VMWare](https://img.shields.io/badge/-VMWare-0078D4?style=flat&logo=vmware)
 ![DevOps](https://img.shields.io/badge/-DevOps-0E76A8?style=flat&logo=devops)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins)
+
+## **Bug Tracking:**
+![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira) 
+![Redmine](https://img.shields.io/badge/-Redmine-8B0000?style=flat&logo=redmine)
+
+## **IDEs:**
+![VS Code](https://img.shields.io/badge/-VS_Code-blue?style=flat&logo=visualstudiocode) 
+![PyCharm](https://img.shields.io/badge/-PyCharm-green?style=flat&logo=pycharm)
 
 ## **OS:**
 ![Windows](https://img.shields.io/badge/-Windows-0078D4?style=flat&logo=microsoftwindows) 
@@ -48,71 +61,9 @@ Welcome to my GitHub profile! I am Nguyễn Thị Châu Khâu, a QA/QC professio
 ## **UI/UX Design:**
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma)
 
-## **Bug Tracking:**
-![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira) 
-![Redmine](https://img.shields.io/badge/-Redmine-8B0000?style=flat&logo=redmine)
-
-## **Manual Testing:**
-![Requirement Analysis](https://img.shields.io/badge/-Requirement_Analysis-FF5733?style=flat)
-![Test Case Design](https://img.shields.io/badge/-Test_Case_Design-FFC300?style=flat)
-![Bug Reporting](https://img.shields.io/badge/-Bug_Reporting-DAF7A6?style=flat)
-![Regression Testing](https://img.shields.io/badge/-Regression_Testing-581845?style=flat)
-
-- **Manual Testing:**
-  - Requirement Analysis
-  - Test Case Design
-  - Bug Reporting
-  - Regression Testing
-
-- **Automation Testing:**
-  - Selenium
-  - Postman
-  - SoapUI
-  - Appium
-  - Robot Framework
-  - Playwright
-  - Cypress
-  - Jmeter
-
-- **Scripting Languages:**
-  - Python
-  - JavaScript
-  - Shell Script
-  - Robot Framework
-  - Java
-
-- **Development Methodologies:**
-  - Scrum
-  - Agile
-
-- **Bug Tracking:**
-  - Jira
-  - Redmine
-
-- **Version Control:**
-  - Git
-  - GitHub
-  - Svn
-
-- **Server:**
-  - VMWare
-  - DevOps
-    
-- **OS:**
-  - Windows
-  - Linux (CLI)
-    
-- **CI/CD Tools:**
-  - Jenkins  
-
-- **Databases:**
-  - SQLite
-  - PostgreSQL
-  - Configuration file
-  - CLI
-
-- **UI/UX Design:**
-  - Figma
+## **Development Methodologies:**
+![Scrum](https://img.shields.io/badge/-Scrum-DA1212?style=flat)
+![Agile](https://img.shields.io/badge/-Agile-28A745?style=flat)
 
 ## 🌿 Highlighted Projects
 
