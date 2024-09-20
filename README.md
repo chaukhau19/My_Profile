@@ -52,6 +52,12 @@ Welcome to my GitHub profile! I am Nguyễn Thị Châu Khâu, a QA/QC professio
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira) 
 ![Redmine](https://img.shields.io/badge/-Redmine-8B0000?style=flat&logo=redmine)
 
+## **Manual Testing:**
+![Requirement Analysis](https://img.shields.io/badge/-Requirement_Analysis-FF5733?style=flat)
+![Test Case Design](https://img.shields.io/badge/-Test_Case_Design-FFC300?style=flat)
+![Bug Reporting](https://img.shields.io/badge/-Bug_Reporting-DAF7A6?style=flat)
+![Regression Testing](https://img.shields.io/badge/-Regression_Testing-581845?style=flat)
+
 - **Manual Testing:**
   - Requirement Analysis
   - Test Case Design
