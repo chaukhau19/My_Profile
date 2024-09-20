@@ -69,7 +69,7 @@ Welcome to my GitHub profile! I am Nguyễn Thị Châu Khâu, a QA/QC professio
 
 | **Telecom**                                          | **Healthcare**                                      | **Music**                                                                  |
 |------------------------------------------------------|-----------------------------------------------------|----------------------------------------------------------------------------|
-| [Cirpack](https://www.cirpack.com/)                  | [Healthcare](https://bestmed.au/)                   | [Busai Music](https://music.busai.me/new_music)                            |
+| [Cirpack](https://www.cirpack.com/)                  | [Bestmed](https://bestmed.au/)                      | [Busai Music](https://music.busai.me/new_music)                            |
 |                                                      |                                                     |                                                                            |
 |                                                      |                                                     |                                                                            |
 
@@ -98,10 +98,6 @@ Welcome to my GitHub profile! I am Nguyễn Thị Châu Khâu, a QA/QC professio
 - ⚙️ Developed multiple automation frameworks, improving efficiency and test coverage.
 - ⏱️ Achieved a 30% reduction in test execution time with a 100% pass rate.
 - 🐞 Identified and reported critical bugs, reducing post-release errors by 99%.
-
-## 🤝 How to Contribute
-
-Feel free to fork this repository and contribute by creating pull requests. You can also open issues if you find any bugs or have suggestions for improvements.
 
 ## 📫 Connect with me:
 [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail)](mailto:chaukhau2000@gmail.com)
