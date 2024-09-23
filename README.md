@@ -77,7 +77,7 @@ Welcome to my GitHub profile! I am Nguyễn Thị Châu Khâu, a QA/QC professio
 
 | **Telecom**                                          | **Healthcare**                                      | **Music**                                                                  |
 |------------------------------------------------------|-----------------------------------------------------|----------------------------------------------------------------------------|
-| [Cirpack](https://www.cirpack.com/)                  | [Bestmed](https://bestmed.au/)                      | [Busai Music](https://music.busai.me/new_music)                            |
+| [![Cirpack](https://img.shields.io/badge/-Cirpack-007BFF?style=flat&logo=appveyor)](https://www.cirpack.com/)                  | [![Bestmed](https://img.shields.io/badge/-Bestmed-007BFF?style=flat&logo=appveyor)](https://bestmed.au/)                      | [![Busai Music](https://img.shields.io/badge/-Busai_Music-007BFF?style=flat&logo=appveyor)](https://music.busai.me/new_music)                            |
 |                                                      |                                                     |                                                                            |
 |                                                      |                                                     |                                                                            |
 
