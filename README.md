@@ -85,17 +85,16 @@ Welcome to my GitHub profile! I am Nguyễn Thị Châu Khâu, a QA/QC professio
 | **Ecommerce**                                        | **AI & Blockchain**                                 | **Crypto**                                                                 |
 |------------------------------------------------------|-----------------------------------------------------|----------------------------------------------------------------------------|
 | [![Tonic](https://img.shields.io/badge/-Tonic-007BFF?style=flat&logo=appveyor)](https://tonic.tongram.app/en)                | [![Friendify GPT](https://img.shields.io/badge/-Friendify_GPT-007BFF?style=flat&logo=appveyor)](https://friendify.ai/)              | [![Winery Finance](https://img.shields.io/badge/-Winery_Finance-007BFF?style=flat&logo=appveyor)](https://winery.finance/info/overview)                     |
-|                                                      | [Busai GPT](https://gpt.busai.me/)                  | [Pools Winery Swap](https://swap.poolswinery.it/swap)                      |
-|                                                      | [Ton Translate](https://gpt.busai.me/welcome)       | [Pools Winery Transactions](https://bridge.poolswinery.it/transactions)    |
-|                                                      | [AI Vocaloid](https://ari.aurumai.io/dashboard/)    | [Tongram Swap](https://dex.tongram.app/)                                   |
-|                                                      |                                                     | [Pools Winery](https://poolswinery.it/)                                    |
+|                                                      | [![Busai GPT](https://img.shields.io/badge/-Busai_GPT-007BFF?style=flat&logo=appveyor)](https://gpt.busai.me/)                  | [![Pools Winery Swap](https://img.shields.io/badge/-Pools_Winery_Swap-007BFF?style=flat&logo=appveyor)](https://swap.poolswinery.it/swap)                      |
+|                                                      | [![Ton Translate](https://img.shields.io/badge/-Ton_Translate-007BFF?style=flat&logo=appveyor)](https://gpt.busai.me/welcome)       | [![Pools Winery Transactions](https://img.shields.io/badge/-Pools_Winery_Transactions-007BFF?style=flat&logo=appveyor)](https://bridge.poolswinery.it/transactions)    |
+|                                                      | [![AI Vocaloid](https://img.shields.io/badge/-AI_Vocaloid-007BFF?style=flat&logo=appveyor)](https://ari.aurumai.io/dashboard/)    | [![Tongram Swap](https://img.shields.io/badge/-Tongram_Swap-007BFF?style=flat&logo=appveyor)](https://dex.tongram.app/)                                   |
+|                                                      |                                                     | [![Pools Winery](https://img.shields.io/badge/-Pools_Winery-007BFF?style=flat&logo=appveyor)](https://poolswinery.it/)                                    |
 |                                                      |                                                     |                                                                            |
-
 
 | **DApps**                                                 | **Games Telegram & DApp**                              |
 |---------------------------------------------------------- |--------------------------------------------------------|
-|                                                           | [Piston](https://t.me/piston_dev_bot/pistonhubdev)     |
-|                                                           | [Tongram](https://tongram.app/)                        |
+| [![DApps](https://img.shields.io/badge/-DApps-007BFF?style=flat&logo=appveyor)](#)                                                           | [![Piston](https://img.shields.io/badge/-Piston-007BFF?style=flat&logo=appveyor)](https://t.me/piston_dev_bot/pistonhubdev)     |
+| [![Tongram](https://img.shields.io/badge/-Tongram-007BFF?style=flat&logo=appveyor)](https://tongram.app/)                                                           |                                                        |
 |                                                           |                                                        |
 |                                                           |                                                        |
 
