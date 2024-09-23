@@ -16,6 +16,17 @@ Welcome to my GitHub profile! I am Nguyễn Thị Châu Khâu, a QA/QC professio
 ![Defect Tracking](https://img.shields.io/badge/-Defect_Tracking-28A745?style=flat)
 ![User Acceptance Testing](https://img.shields.io/badge/-User_Acceptance_Testing-8E44AD?style=flat)
 
+### **Testing Techniques:**
+![Equivalence Partitioning](https://img.shields.io/badge/-Equivalence_Partitioning-FF5733?style=flat) Equivalence Partitioning
+![Boundary Value Analysis](https://img.shields.io/badge/-Boundary_Value_Analysis-F39C12?style=flat) Boundary Value Analysis
+![Decision Table Testing](https://img.shields.io/badge/-Decision_Table_Testing-FFC300?style=flat) Decision Table Testing
+![State Transition Testing](https://img.shields.io/badge/-State_Transition_Testing-007BFF?style=flat) State Transition Testing
+![Use Case Testing](https://img.shields.io/badge/-Use_Case_Testing-DAF7A6?style=flat) Use Case Testing
+![Random Testing](https://img.shields.io/badge/-Random_Testing-581845?style=flat) Random Testing
+![Backward Testing](https://img.shields.io/badge/-Backward_Testing-28A745?style=flat) Backward Testing
+![Page Object Model](https://img.shields.io/badge/-Page_Object_Model-8E44AD?style=flat) Page Object Model
+
+
 ### **Automation Tools:**
 ![Selenium](https://img.shields.io/badge/-Selenium-blue?style=flat&logo=selenium) 
 ![Postman](https://img.shields.io/badge/-Postman-orange?style=flat&logo=postman) 
