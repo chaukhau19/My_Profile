@@ -39,32 +39,28 @@ Welcome to my GitHub profile! I am Nguyễn Thị Châu Khâu, a QA/QC professio
 ![Cypress](https://img.shields.io/badge/-Cypress-darkgreen?style=flat&logo=cypress)
 ![JMeter](https://img.shields.io/badge/-JMeter-red?style=flat&logo=apachejmeter)
 
-### **Languages:**
+### **Programming Languages:**
 ![Python](https://img.shields.io/badge/-Python-blue?style=flat) 
 ![Robot Framework](https://img.shields.io/badge/-Robot_Framework-green?style=flat&logo=robotframework)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=JavaScript)
 ![Java](https://img.shields.io/badge/-Java-red?style=flat&logo=Java)
 ![Shell Script](https://img.shields.io/badge/-Shell_Script-2E7C2E?style=flat&logo=gnu-bash)
 
-### **CI-CD & Server:**
-![VMWare](https://img.shields.io/badge/-VMWare-0078D4?style=flat&logo=vmware)
+### **DevOps Server & CI-CD & Version Control:**
 ![DevOps](https://img.shields.io/badge/-DevOps-0E76A8?style=flat&logo=devops)
+![VMWare](https://img.shields.io/badge/-VMWare-0078D4?style=flat&logo=vmware)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins)
-
-### **Version Control:**
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git) 
 ![GitHub](https://img.shields.io/badge/-GitHub-grey?style=flat&logo=github) 
 ![SVN](https://img.shields.io/badge/-SVN-blue?style=flat&logo=subversion)
 
-### **Bug Tracking:**
+### **Bug Tracking & IDEs:**
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira) 
 ![Redmine](https://img.shields.io/badge/-Redmine-8B0000?style=flat&logo=redmine)
-
-### **IDEs:**
 ![VS Code](https://img.shields.io/badge/-VS_Code-blue?style=flat&logo=visualstudiocode) 
 ![PyCharm](https://img.shields.io/badge/-PyCharm-green?style=flat&logo=pycharm)
 
-### **OS:**
+### **Operating Systems:**
 ![Windows](https://img.shields.io/badge/-Windows-0078D4?style=flat&logo=microsoftwindows) 
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux)
 
