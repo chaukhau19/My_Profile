@@ -7,25 +7,28 @@ Welcome to my GitHub profile! I am Nguyễn Thị Châu Khâu, a QA/QC professio
 ## 🛠️ Tech Stack
 
 ### **Manual Testing:**
-![Requirement Analysis](https://img.shields.io/badge/-Requirement_Analysis-FF5733?style=flat)
-![Test Planning](https://img.shields.io/badge/-Test_Planning-F39C12?style=flat)
-![Test Case Design](https://img.shields.io/badge/-Test_Case_Design-FFC300?style=flat)
-![Test Execution](https://img.shields.io/badge/-Test_Execution-007BFF?style=flat)
-![Bug Reporting](https://img.shields.io/badge/-Bug_Reporting-DAF7A6?style=flat)
-![Regression Testing](https://img.shields.io/badge/-Regression_Testing-581845?style=flat)
-![Defect Tracking](https://img.shields.io/badge/-Defect_Tracking-28A745?style=flat)
-![User Acceptance Testing](https://img.shields.io/badge/-User_Acceptance_Testing-8E44AD?style=flat)
+![Requirement Analysis](https://img.shields.io/badge/-Requirement_Analysis-FF5733?style=flat) 
+![Test Planning](https://img.shields.io/badge/-Test_Planning-F39C12?style=flat) 
+![Test Case Design](https://img.shields.io/badge/-Test_Case_Design-FFC300?style=flat) 
+![Test Execution](https://img.shields.io/badge/-Test_Execution-007BFF?style=flat) 
+![Bug Reporting](https://img.shields.io/badge/-Bug_Reporting-DAF7A6?style=flat) 
+![Defect Tracking](https://img.shields.io/badge/-Defect_Tracking-28A745?style=flat) 
+![User Acceptance Testing](https://img.shields.io/badge/-User_Acceptance_Testing-8E44AD?style=flat) 
+![Sanity Testing](https://img.shields.io/badge/-Sanity_Testing-8E44AD?style=flat) 
+![Regression Testing](https://img.shields.io/badge/-Regression_Testing-581845?style=flat) 
 
 ### **Testing Techniques:**
-![Equivalence Partitioning](https://img.shields.io/badge/-Equivalence_Partitioning-FF5733?style=flat) Equivalence Partitioning
-![Boundary Value Analysis](https://img.shields.io/badge/-Boundary_Value_Analysis-F39C12?style=flat) Boundary Value Analysis
-![Decision Table Testing](https://img.shields.io/badge/-Decision_Table_Testing-FFC300?style=flat) Decision Table Testing
-![State Transition Testing](https://img.shields.io/badge/-State_Transition_Testing-007BFF?style=flat) State Transition Testing
-![Use Case Testing](https://img.shields.io/badge/-Use_Case_Testing-DAF7A6?style=flat) Use Case Testing
-![Random Testing](https://img.shields.io/badge/-Random_Testing-581845?style=flat) Random Testing
-![Backward Testing](https://img.shields.io/badge/-Backward_Testing-28A745?style=flat) Backward Testing
-![Page Object Model](https://img.shields.io/badge/-Page_Object_Model-8E44AD?style=flat) Page Object Model
-
+![Equivalence Partitioning](https://img.shields.io/badge/-Equivalence_Partitioning-FF5733?style=flat) 
+![Boundary Value Analysis](https://img.shields.io/badge/-Boundary_Value_Analysis-F39C12?style=flat) 
+![Decision Table Testing](https://img.shields.io/badge/-Decision_Table_Testing-FFC300?style=flat) 
+![State Transition Testing](https://img.shields.io/badge/-State_Transition_Testing-007BFF?style=flat) 
+![Use Case Testing](https://img.shields.io/badge/-Use_Case_Testing-DAF7A6?style=flat) 
+![Random Testing](https://img.shields.io/badge/-Random_Testing-581845?style=flat) 
+![Backward Testing](https://img.shields.io/badge/-Backward_Testing-28A745?style=flat) 
+![Page Object Model](https://img.shields.io/badge/-Page_Object_Model-8E44AD?style=flat) 
+![Installation Testing](https://img.shields.io/badge/-Installation_Testing-581845?style=flat) 
+![Upgrade Testing](https://img.shields.io/badge/-Upgrade_Testing-FF5733?style=flat) 
+![Migration Testing](https://img.shields.io/badge/-Migration_Testing-F39C12?style=flat) 
 
 ### **Automation Tools:**
 ![Selenium](https://img.shields.io/badge/-Selenium-blue?style=flat&logo=selenium) 
