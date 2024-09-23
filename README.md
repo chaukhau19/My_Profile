@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I am Nguyễn Thị Châu Khâu, a QA/QC professional with over 3 years of experience in Manual and Automation Testing. My expertise lies in creating robust test plans, designing test cases, and implementing automated testing solutions to ensure high-quality software delivery.
 ## 📊 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaukhau19&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chaukhau19&theme=radical)
+
 ## 🛠️ Tech Stack
 
 ### **Manual Testing:**
@@ -71,7 +71,7 @@ Welcome to my GitHub profile! I am Nguyễn Thị Châu Khâu, a QA/QC professio
 
 | **Telecom**                                          | **Healthcare**                                      | **Music**                                                                  |
 |------------------------------------------------------|-----------------------------------------------------|----------------------------------------------------------------------------|
-| [Cirpack](https://www.cirpack.com/)                  | [Bestmed](https://bestmed.au/)                      | [Busai Music](https://music.busai.me/new_music)                            |
+| ![Cirpack Logo]([https://link-cirpack-logo.png](https://www.google.com/search?sca_esv=daa066afd5ca518e&sca_upv=1&sxsrf=ADLYWILRr1Lsv_LgxCEBpCCXGbER2LipBg:1727056787854&q=cirpack&udm=2&fbs=AEQNm0D7NTKsOqMPi-yhU7bWDsijXeHIssQxQHiKhz3Orm0Szk2q6O3Esev6DIwpyqAb2Bh2z2pSYQLY4qQRI_QryBvXXSGntQlS78Gi7D5q379_-zC_CathrAXJ9F_4nNvgiMRR7yFT7zViFfPj2F7_nP8Nnd9wS_aZkSAesaBKdIO7C4snMxSL1Sa17MLkUv8t5BP6YbAny8KYRuU9O-a-pBY9T7bZCEvqPzXeKsblp1eGbgePzUg&sa=X&ved=2ahUKEwjd_uLy-9eIAxX8zjQHHVNEFKgQtKgLegQIJhAB&biw=1920&bih=953#vhid=jJnPxcU5DLSL0M&vssid=mosaic))[Cirpack](https://www.cirpack.com/)                  | [Bestmed](https://bestmed.au/)                      | [Busai Music](https://music.busai.me/new_music)                            |
 |                                                      |                                                     |                                                                            |
 |                                                      |                                                     |                                                                            |
 
