@@ -84,8 +84,7 @@ Welcome to my GitHub profile! I am Nguyễn Thị Châu Khâu, a QA/QC professio
 
 | **Ecommerce**                                        | **AI & Blockchain**                                 | **Crypto**                                                                 |
 |------------------------------------------------------|-----------------------------------------------------|----------------------------------------------------------------------------|
-| [![Tonic](https://img.shields.io/badge/-Tonic-007BFF?style=flat&logo=appveyor)](https://tonic.tongram.app/en)
-                | [Friendify GPT](https://friendify.ai/)              | [Winery Finance](https://winery.finance/info/overview)                     |
+| [![Tonic](https://img.shields.io/badge/-Tonic-007BFF?style=flat&logo=appveyor)](https://tonic.tongram.app/en)                | [![Friendify GPT](https://img.shields.io/badge/-Friendify_GPT-007BFF?style=flat&logo=appveyor)](https://friendify.ai/)              | [![Winery Finance](https://img.shields.io/badge/-Winery_Finance-007BFF?style=flat&logo=appveyor)](https://winery.finance/info/overview)                     |
 |                                                      | [Busai GPT](https://gpt.busai.me/)                  | [Pools Winery Swap](https://swap.poolswinery.it/swap)                      |
 |                                                      | [Ton Translate](https://gpt.busai.me/welcome)       | [Pools Winery Transactions](https://bridge.poolswinery.it/transactions)    |
 |                                                      | [AI Vocaloid](https://ari.aurumai.io/dashboard/)    | [Tongram Swap](https://dex.tongram.app/)                                   |
