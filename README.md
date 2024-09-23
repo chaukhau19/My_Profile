@@ -75,28 +75,46 @@ Welcome to my GitHub profile! I am Nguyễn Thị Châu Khâu, a QA/QC professio
 
 ## 🌿 Highlighted Projects
 
-| **Telecom**                                          | **Healthcare**                                      | **Music**                                                                  |
-|------------------------------------------------------|-----------------------------------------------------|----------------------------------------------------------------------------|
-| [![Cirpack](https://img.shields.io/badge/-Cirpack-007BFF?style=flat&logo=appveyor)](https://www.cirpack.com/)                  | [![Bestmed](https://img.shields.io/badge/-Bestmed-007BFF?style=flat&logo=appveyor)](https://bestmed.au/)                      | [![Busai Music](https://img.shields.io/badge/-Busai_Music-007BFF?style=flat&logo=appveyor)](https://music.busai.me/new_music)                            |
-|                                                      |                                                     |                                                                            |
-|                                                      |                                                     |                                                                            |
+| **Telecom**                                          |
+|------------------------------------------------------|
+| [![Cirpack](https://img.shields.io/badge/-Cirpack-007BFF?style=flat&logo=appveyor)](https://www.cirpack.com/)                  |
 
+| **Healthcare**                                      |
+|-----------------------------------------------------|
+| [![Bestmed](https://img.shields.io/badge/-Bestmed-007BFF?style=flat&logo=appveyor)](https://bestmed.au/)                      |
 
-| **Ecommerce**                                        | **AI & Blockchain**                                 | **Crypto**                                                                 |
-|------------------------------------------------------|-----------------------------------------------------|----------------------------------------------------------------------------|
-| [![Tonic](https://img.shields.io/badge/-Tonic-007BFF?style=flat&logo=appveyor)](https://tonic.tongram.app/en)                | [![Friendify GPT](https://img.shields.io/badge/-Friendify_GPT-007BFF?style=flat&logo=appveyor)](https://friendify.ai/)              | [![Winery Finance](https://img.shields.io/badge/-Winery_Finance-007BFF?style=flat&logo=appveyor)](https://winery.finance/info/overview)                     |
-|                                                      | [![Busai GPT](https://img.shields.io/badge/-Busai_GPT-007BFF?style=flat&logo=appveyor)](https://gpt.busai.me/)                  | [![Pools Winery Swap](https://img.shields.io/badge/-Pools_Winery_Swap-007BFF?style=flat&logo=appveyor)](https://swap.poolswinery.it/swap)                      |
-|                                                      | [![Ton Translate](https://img.shields.io/badge/-Ton_Translate-007BFF?style=flat&logo=appveyor)](https://gpt.busai.me/welcome)       | [![Pools Winery Transactions](https://img.shields.io/badge/-Pools_Winery_Transactions-007BFF?style=flat&logo=appveyor)](https://bridge.poolswinery.it/transactions)    |
-|                                                      | [![AI Vocaloid](https://img.shields.io/badge/-AI_Vocaloid-007BFF?style=flat&logo=appveyor)](https://ari.aurumai.io/dashboard/)    | [![Tongram Swap](https://img.shields.io/badge/-Tongram_Swap-007BFF?style=flat&logo=appveyor)](https://dex.tongram.app/)                                   |
-|                                                      |                                                     | [![Pools Winery](https://img.shields.io/badge/-Pools_Winery-007BFF?style=flat&logo=appveyor)](https://poolswinery.it/)                                    |
-|                                                      |                                                     |                                                                            |
+| **Music**                                          |
+|-----------------------------------------------------|
+| [![Busai Music](https://img.shields.io/badge/-Busai_Music-007BFF?style=flat&logo=appveyor)](https://music.busai.me/new_music)                            |
 
-| **DApps**                                                 | **Games Telegram & DApp**                              |
-|---------------------------------------------------------- |--------------------------------------------------------|
-| [![DApps](https://img.shields.io/badge/-DApps-007BFF?style=flat&logo=appveyor)](#)                                                           | [![Piston](https://img.shields.io/badge/-Piston-007BFF?style=flat&logo=appveyor)](https://t.me/piston_dev_bot/pistonhubdev)     |
-| [![Tongram](https://img.shields.io/badge/-Tongram-007BFF?style=flat&logo=appveyor)](https://tongram.app/)                                                           |                                                        |
-|                                                           |                                                        |
-|                                                           |                                                        |
+| **Ecommerce**                                        |
+|------------------------------------------------------|
+| [![Tonic](https://img.shields.io/badge/-Tonic-007BFF?style=flat&logo=appveyor)](https://tonic.tongram.app/en)                |
+
+| **AI & Blockchain**                                 |
+|------------------------------------------------------|
+| [![Friendify GPT](https://img.shields.io/badge/-Friendify_GPT-007BFF?style=flat&logo=appveyor)](https://friendify.ai/)              |
+| [![Busai GPT](https://img.shields.io/badge/-Busai_GPT-007BFF?style=flat&logo=appveyor)](https://gpt.busai.me/)                  |
+| [![Ton Translate](https://img.shields.io/badge/-Ton_Translate-007BFF?style=flat&logo=appveyor)](https://gpt.busai.me/welcome)       |
+| [![AI Vocaloid](https://img.shields.io/badge/-AI_Vocaloid-007BFF?style=flat&logo=appveyor)](https://ari.aurumai.io/dashboard/)    |
+
+| **Crypto**                                          |
+|-----------------------------------------------------|
+| [![Winery Finance](https://img.shields.io/badge/-Winery_Finance-007BFF?style=flat&logo=appveyor)](https://winery.finance/info/overview)                     |
+| [![Pools Winery Swap](https://img.shields.io/badge/-Pools_Winery_Swap-007BFF?style=flat&logo=appveyor)](https://swap.poolswinery.it/swap)                      |
+| [![Pools Winery Transactions](https://img.shields.io/badge/-Pools_Winery_Transactions-007BFF?style=flat&logo=appveyor)](https://bridge.poolswinery.it/transactions)    |
+| [![Tongram Swap](https://img.shields.io/badge/-Tongram_Swap-007BFF?style=flat&logo=appveyor)](https://dex.tongram.app/)                                   |
+| [![Pools Winery](https://img.shields.io/badge/-Pools_Winery-007BFF?style=flat&logo=appveyor)](https://poolswinery.it/)                                    |
+
+| **DApps**                                                 |
+|---------------------------------------------------------- |
+| [![DApps](https://img.shields.io/badge/-DApps-007BFF?style=flat&logo=appveyor)](#)                                                           |
+| [![Tongram](https://img.shields.io/badge/-Tongram-007BFF?style=flat&logo=appveyor)](https://tongram.app/)                                                           |
+
+| **Games Telegram & DApp**                              |
+|--------------------------------------------------------|
+| [![Piston](https://img.shields.io/badge/-Piston-007BFF?style=flat&logo=appveyor)](https://t.me/piston_dev_bot/pistonhubdev)     |
+
 
 ## 🏆 Portfolio Details - Summary of project details
 [![Canva](https://img.shields.io/badge/-Canva-00BDAA?style=flat&logo=canva)](https://s.net.vn/2w4i)
