@@ -96,9 +96,6 @@ Welcome to my GitHub profile! I am Nguyễn Thị Châu Khâu, a QA/QC professio
 ## 🏆 Portfolio Details
 -  *💼 [My Profile Portfolio](https://s.net.vn/2w4i)* ![Canva](https://img.shields.io/badge/-Canva-00BDAA?style=flat&logo=canva)
 
-
-
-  
 ## 🏆 Achievements
 
 - 🚀 Build automation from scratch for multiple projects.
