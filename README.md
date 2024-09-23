@@ -39,7 +39,7 @@ Welcome to my GitHub profile! I am Nguyễn Thị Châu Khâu, a QA/QC professio
 ![Cypress](https://img.shields.io/badge/-Cypress-darkgreen?style=flat&logo=cypress)
 ![JMeter](https://img.shields.io/badge/-JMeter-red?style=flat&logo=apachejmeter)
 
-### **Programming Languages:**
+### **Languages & Development:**
 ![Python](https://img.shields.io/badge/-Python-blue?style=flat) 
 ![Robot Framework](https://img.shields.io/badge/-Robot_Framework-green?style=flat&logo=robotframework)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=JavaScript)
@@ -60,20 +60,15 @@ Welcome to my GitHub profile! I am Nguyễn Thị Châu Khâu, a QA/QC professio
 ![VS Code](https://img.shields.io/badge/-VS_Code-blue?style=flat&logo=visualstudiocode) 
 ![PyCharm](https://img.shields.io/badge/-PyCharm-green?style=flat&logo=pycharm)
 
-### **Operating Systems:**
+### **Operating Systems & Databases:**
 ![Windows](https://img.shields.io/badge/-Windows-0078D4?style=flat&logo=microsoftwindows) 
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux)
-
-### **Databases:**
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat) 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)
 ![CLI](https://img.shields.io/badge/-CLI-2E7C2E?style=flat&logo=gnu-bash)
-![Configuration File](https://img.shields.io/badge/-Configuration_File-2E7C2E?style=flat&logo=gnu-bash)
 
-### **UI/UX Design:**
+### **UI/UX Design & Development Methodologies:**
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma)
-
-### **Development Methodologies:**
 ![Scrum](https://img.shields.io/badge/-Scrum-DA1212?style=flat)
 ![Agile](https://img.shields.io/badge/-Agile-28A745?style=flat)
 
