@@ -2,11 +2,6 @@
 
 Welcome to my GitHub profile! I am Nguyễn Thị Châu Khâu, a QA/QC professional with over 3 years of experience in Manual and Automation Testing. My expertise lies in creating robust test plans, designing test cases, and implementing automated testing solutions to ensure high-quality software delivery.
 
-## 📫 Connect with me:
-[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail)](mailto:chaukhau2000@gmail.com)
-[![Zalo](https://img.shields.io/badge/-Zalo-0078D4?style=flat&logo=zalo)](https://zalo.me/0327720369) 
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/phu.nick.186?mibextid=ZbWKwL)
-
 ## 📊 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaukhau19&layout=compact&theme=radical)
 
@@ -104,7 +99,7 @@ Welcome to my GitHub profile! I am Nguyễn Thị Châu Khâu, a QA/QC professio
 |                                                           |                                                        |
 |                                                           |                                                        |
 
-## 🏆 Portfolio Details
+## 🏆 Portfolio Details - Summary of project details
 -  [![Canva](https://img.shields.io/badge/-Canva-00BDAA?style=flat&logo=canva)](https://s.net.vn/2w4i)
 
 ## 🏆 Achievements
@@ -114,5 +109,10 @@ Welcome to my GitHub profile! I am Nguyễn Thị Châu Khâu, a QA/QC professio
 - ⚙️ Developed multiple automation frameworks, improving efficiency and test coverage.
 - ⏱️ Achieved a 30% reduction in test execution time with a 100% pass rate.
 - 🐞 Identified and reported critical bugs, reducing post-release errors by 99%.
+
+## 📫 Connect with me:
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail)](mailto:chaukhau2000@gmail.com)
+[![Zalo](https://img.shields.io/badge/-Zalo-0078D4?style=flat&logo=zalo)](https://zalo.me/0327720369) 
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/phu.nick.186?mibextid=ZbWKwL)
 
 Thank you for visiting my profile! 🌟
