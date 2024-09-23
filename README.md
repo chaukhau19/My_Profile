@@ -91,29 +91,23 @@ Welcome to my GitHub profile! I am Nguyễn Thị Châu Khâu, a QA/QC professio
 |------------------------------------------------------|
 | [![Tonic](https://img.shields.io/badge/-Tonic-FF6F61?style=flat&logo=appveyor)](https://tonic.tongram.app/en)                |
 
-| ***AI & Blockchain***                                 |
+| ***AI & Blockchain & Crypto***                                 |
 |------------------------------------------------------|
 | [![Friendify GPT](https://img.shields.io/badge/-Friendify_GPT-FF6F61?style=flat&logo=appveyor)](https://friendify.ai/)              |
 | [![Busai GPT](https://img.shields.io/badge/-Busai_GPT-FF6F61?style=flat&logo=appveyor)](https://gpt.busai.me/)                  |
 | [![Ton Translate](https://img.shields.io/badge/-Ton_Translate-FF6F61?style=flat&logo=appveyor)](https://gpt.busai.me/welcome)       |
 | [![AI Vocaloid](https://img.shields.io/badge/-AI_Vocaloid-FF6F61?style=flat&logo=appveyor)](https://ari.aurumai.io/dashboard/)    |
-
-| ***Crypto***                                          |
-|-----------------------------------------------------|
 | [![Winery Finance](https://img.shields.io/badge/-Winery_Finance-FF6F61?style=flat&logo=appveyor)](https://winery.finance/info/overview)                     |
 | [![Pools Winery Swap](https://img.shields.io/badge/-Pools_Winery_Swap-FF6F61?style=flat&logo=appveyor)](https://swap.poolswinery.it/swap)                      |
 | [![Pools Winery Transactions](https://img.shields.io/badge/-Pools_Winery_Transactions-FF6F61?style=flat&logo=appveyor)](https://bridge.poolswinery.it/transactions)    |
 | [![Tongram Swap](https://img.shields.io/badge/-Tongram_Swap-FF6F61?style=flat&logo=appveyor)](https://dex.tongram.app/)                                   |
 | [![Pools Winery](https://img.shields.io/badge/-Pools_Winery-FF6F61?style=flat&logo=appveyor)](https://poolswinery.it/)                                    |
 
-| ***DApps***                                                 |
-|---------------------------------------------------------- |
-| [![DApps](https://img.shields.io/badge/-DApps-FF6F61?style=flat&logo=appveyor)](#)                                                           |
-| [![Tongram](https://img.shields.io/badge/-Tongram-FF6F61?style=flat&logo=appveyor)](https://tongram.app/)                                                           |
-
 | ***Games Telegram & DApp***                              |
 |--------------------------------------------------------|
 | [![Piston](https://img.shields.io/badge/-Piston-FF6F61?style=flat&logo=appveyor)](https://t.me/piston_dev_bot/pistonhubdev)     |
+| [![DApps](https://img.shields.io/badge/-DApps-FF6F61?style=flat&logo=appveyor)](#)                                                           |
+| [![Tongram](https://img.shields.io/badge/-Tongram-FF6F61?style=flat&logo=appveyor)](https://tongram.app/)                                                           |
 
 ## 🏆 Portfolio Details - Summary of project details
 [![Canva](https://img.shields.io/badge/-Canva-00BDAA?style=flat&logo=canva)](https://s.net.vn/2w4i)
