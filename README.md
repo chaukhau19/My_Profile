@@ -33,7 +33,7 @@ Welcome to my GitHub profile! I am Nguyễn Thị Châu Khâu, a QA/QC professio
 
 ### ***Automation Tools***
 ![Selenium](https://img.shields.io/badge/-Selenium-blue?style=flat&logo=selenium) 
-![Postman](https://img.shields.io/badge/-Postman-orange?style=flat&logo=postman) 
+![Postman](https://img.shields.io/badge/-Postman-orange?style=flat&logo=postman)
 ![SoapUI](https://img.shields.io/badge/-SoapUI-green?style=flat&logo=soapui)
 ![Appium](https://img.shields.io/badge/-Appium-purple?style=flat&logo=appium)
 ![Playwright](https://img.shields.io/badge/-Playwright-brightgreen?style=flat&logo=playwright)
@@ -41,10 +41,10 @@ Welcome to my GitHub profile! I am Nguyễn Thị Châu Khâu, a QA/QC professio
 ![JMeter](https://img.shields.io/badge/-JMeter-red?style=flat&logo=apachejmeter)
 
 ### ***Languages & Development***
-![Python](https://img.shields.io/badge/-Python-blue?style=flat) 
+![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python)
 ![Robot Framework](https://img.shields.io/badge/-Robot_Framework-green?style=flat&logo=robotframework)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=JavaScript)
-![Java](https://img.shields.io/badge/-Java-red?style=flat&logo=Java)
+![Java](https://img.shields.io/badge/-Java-red?style=flat&logo=java)
 ![Shell Script](https://img.shields.io/badge/-Shell_Script-2E7C2E?style=flat&logo=gnu-bash)
 
 ### ***DevOps Server & CI-CD & Version Control***
@@ -62,9 +62,9 @@ Welcome to my GitHub profile! I am Nguyễn Thị Châu Khâu, a QA/QC professio
 ![PyCharm](https://img.shields.io/badge/-PyCharm-green?style=flat&logo=pycharm)
 
 ### ***Operating Systems & Databases***
-![Windows](https://img.shields.io/badge/-Windows-0078D4?style=flat&logo=microsoftwindows) 
+![Windows](https://img.shields.io/badge/-Windows-0078D4?style=flat&logo=windows)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat) 
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)
 ![CLI](https://img.shields.io/badge/-CLI-2E7C2E?style=flat&logo=gnu-bash)
 
@@ -87,7 +87,7 @@ Welcome to my GitHub profile! I am Nguyễn Thị Châu Khâu, a QA/QC professio
 ![DApp](https://img.shields.io/badge/-DApp-20C997?style=flat)
 
 ### ***Project***
-[![Cirpack](https://img.shields.io/badge/-Cirpack-1E90FF?style=flat&logo=appveyor)](https://www.cirpack.com/) 
+[![Cirpack](https://img.shields.io/badge/-Cirpack-1E90FF?style=flat)](https://www.cirpack.com/)
 
 [![Bestmed](https://img.shields.io/badge/-Bestmed-28A745?style=flat&logo=appveyor)](https://bestmed.au/) 
 
