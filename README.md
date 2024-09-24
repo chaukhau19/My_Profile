@@ -86,7 +86,7 @@ Welcome to my GitHub profile! I am Nguyễn Thị Châu Khâu, a QA/QC professio
 ![Games](https://img.shields.io/badge/-Games-DC3545?style=flat) 
 ![DApp](https://img.shields.io/badge/-DApp-20C997?style=flat)
 
-### ***Telecom***
+### ***Project***
 [![Cirpack](https://img.shields.io/badge/-Cirpack-1E90FF?style=flat&logo=appveyor)](https://www.cirpack.com/) 
 
 [![Bestmed](https://img.shields.io/badge/-Bestmed-28A745?style=flat&logo=appveyor)](https://bestmed.au/) 
@@ -99,11 +99,12 @@ Welcome to my GitHub profile! I am Nguyễn Thị Châu Khâu, a QA/QC professio
 [![Busai GPT](https://img.shields.io/badge/-Busai_GPT-17A2B8?style=flat&logo=appveyor)](https://gpt.busai.me/) 
 [![Ton Translate](https://img.shields.io/badge/-Ton_Translate-17A2B8?style=flat&logo=appveyor)](https://gpt.busai.me/welcome) 
 [![AI Vocaloid](https://img.shields.io/badge/-AI_Vocaloid-17A2B8?style=flat&logo=appveyor)](https://ari.aurumai.io/dashboard/) 
-[![Winery Finance](https://img.shields.io/badge/-Winery_Finance-17A2B8?style=flat&logo=appveyor)](https://winery.finance/info/overview) 
-[![Pools Winery Swap](https://img.shields.io/badge/-Pools_Winery_Swap-17A2B8?style=flat&logo=appveyor)](https://swap.poolswinery.it/swap) 
-[![Pools Winery Transactions](https://img.shields.io/badge/-Pools_Winery_Transactions-17A2B8?style=flat&logo=appveyor)](https://bridge.poolswinery.it/transactions) 
-[![Tongram Swap](https://img.shields.io/badge/-Tongram_Swap-17A2B8?style=flat&logo=appveyor)](https://dex.tongram.app/) 
-[![Pools Winery](https://img.shields.io/badge/-Pools_Winery-17A2B8?style=flat&logo=appveyor)](https://poolswinery.it/) 
+
+[![Winery Finance](https://img.shields.io/badge/-Winery_Finance-FB8C00?style=flat&logo=appveyor)](https://winery.finance/info/overview) 
+[![Pools Winery Swap](https://img.shields.io/badge/-Pools_Winery_Swap-FB8C00?style=flat&logo=appveyor)](https://swap.poolswinery.it/swap) 
+[![Pools Winery Transactions](https://img.shields.io/badge/-Pools_Winery_Transactions-FB8C00?style=flat&logo=appveyor)](https://bridge.poolswinery.it/transactions) 
+[![Tongram Swap](https://img.shields.io/badge/-Tongram_Swap-FB8C00?style=flat&logo=appveyor)](https://dex.tongram.app/) 
+[![Pools Winery](https://img.shields.io/badge/-Pools_Winery-FB8C00?style=flat&logo=appveyor)](https://poolswinery.it/) 
 
 
 ## 🏆 Portfolio Details - Summary of project details
