@@ -37,7 +37,6 @@ Welcome to my GitHub profile! I am Nguyễn Thị Châu Khâu, a QA/QC professio
 ![SoapUI](https://img.shields.io/badge/-SoapUI-green?style=flat&logo=soapui)
 ![Appium](https://img.shields.io/badge/-Appium-purple?style=flat&logo=appium)
 ![Playwright](https://img.shields.io/badge/-Playwright-brightgreen?style=flat&logo=playwright)
-![Cypress](https://img.shields.io/badge/-Cypress-darkgreen?style=flat&logo=cypress)
 ![JMeter](https://img.shields.io/badge/-JMeter-red?style=flat&logo=apachejmeter)
 
 ### ***Languages & Development***
@@ -48,7 +47,6 @@ Welcome to my GitHub profile! I am Nguyễn Thị Châu Khâu, a QA/QC professio
 ![Shell Script](https://img.shields.io/badge/-Shell_Script-2E7C2E?style=flat&logo=gnu-bash)
 
 ### ***DevOps Server & CI-CD & Version Control***
-![DevOps](https://img.shields.io/badge/-DevOps-0E76A8?style=flat&logo=devops)
 ![VMWare](https://img.shields.io/badge/-VMWare-0078D4?style=flat&logo=vmware)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git) 
