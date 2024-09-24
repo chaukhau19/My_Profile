@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I am Nguyễn Thị Châu Khâu, a QA/QC professio
 
 ## 🛠️ Tech Stack
 
-### **Manual Testing:**
+### ***Manual Testing***
 ![Requirement Analysis](https://img.shields.io/badge/-Requirement_Analysis-FF5733?style=flat) 
 ![Test Planning](https://img.shields.io/badge/-Test_Planning-F39C12?style=flat) 
 ![Test Case Design](https://img.shields.io/badge/-Test_Case_Design-FFC300?style=flat) 
@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I am Nguyễn Thị Châu Khâu, a QA/QC professio
 ![Sanity Testing](https://img.shields.io/badge/-Sanity_Testing-8E44AD?style=flat) 
 ![Regression Testing](https://img.shields.io/badge/-Regression_Testing-581845?style=flat) 
 
-### **Testing Techniques:**
+### ***Testing Techniques***
 ![Equivalence Partitioning](https://img.shields.io/badge/-Equivalence_Partitioning-FF5733?style=flat) 
 ![Boundary Value Analysis](https://img.shields.io/badge/-Boundary_Value_Analysis-F39C12?style=flat) 
 ![Decision Table Testing](https://img.shields.io/badge/-Decision_Table_Testing-FFC300?style=flat) 
@@ -31,7 +31,7 @@ Welcome to my GitHub profile! I am Nguyễn Thị Châu Khâu, a QA/QC professio
 ![Upgrade Testing](https://img.shields.io/badge/-Upgrade_Testing-FF5733?style=flat) 
 ![Migration Testing](https://img.shields.io/badge/-Migration_Testing-F39C12?style=flat) 
 
-### **Automation Tools:**
+### ***Automation Tools***
 ![Selenium](https://img.shields.io/badge/-Selenium-blue?style=flat&logo=selenium) 
 ![Postman](https://img.shields.io/badge/-Postman-orange?style=flat&logo=postman) 
 ![SoapUI](https://img.shields.io/badge/-SoapUI-green?style=flat&logo=soapui)
@@ -40,14 +40,14 @@ Welcome to my GitHub profile! I am Nguyễn Thị Châu Khâu, a QA/QC professio
 ![Cypress](https://img.shields.io/badge/-Cypress-darkgreen?style=flat&logo=cypress)
 ![JMeter](https://img.shields.io/badge/-JMeter-red?style=flat&logo=apachejmeter)
 
-### **Languages & Development:**
+### ***Languages & Development***
 ![Python](https://img.shields.io/badge/-Python-blue?style=flat) 
 ![Robot Framework](https://img.shields.io/badge/-Robot_Framework-green?style=flat&logo=robotframework)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=JavaScript)
 ![Java](https://img.shields.io/badge/-Java-red?style=flat&logo=Java)
 ![Shell Script](https://img.shields.io/badge/-Shell_Script-2E7C2E?style=flat&logo=gnu-bash)
 
-### **DevOps Server & CI-CD & Version Control:**
+### ***DevOps Server & CI-CD & Version Control***
 ![DevOps](https://img.shields.io/badge/-DevOps-0E76A8?style=flat&logo=devops)
 ![VMWare](https://img.shields.io/badge/-VMWare-0078D4?style=flat&logo=vmware)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins)
@@ -55,20 +55,20 @@ Welcome to my GitHub profile! I am Nguyễn Thị Châu Khâu, a QA/QC professio
 ![GitHub](https://img.shields.io/badge/-GitHub-grey?style=flat&logo=github) 
 ![SVN](https://img.shields.io/badge/-SVN-blue?style=flat&logo=subversion)
 
-### **Bug Tracking & IDEs:**
+### ***Bug Tracking & IDEs***
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira) 
 ![Redmine](https://img.shields.io/badge/-Redmine-8B0000?style=flat&logo=redmine)
 ![VS Code](https://img.shields.io/badge/-VS_Code-blue?style=flat&logo=visualstudiocode) 
 ![PyCharm](https://img.shields.io/badge/-PyCharm-green?style=flat&logo=pycharm)
 
-### **Operating Systems & Databases:**
+### ***Operating Systems & Databases***
 ![Windows](https://img.shields.io/badge/-Windows-0078D4?style=flat&logo=microsoftwindows) 
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat) 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)
 ![CLI](https://img.shields.io/badge/-CLI-2E7C2E?style=flat&logo=gnu-bash)
 
-### **UI/UX Design & Development Methodologies:**
+### ***UI/UX Design & Development Methodologies***
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma)
 ![Scrum](https://img.shields.io/badge/-Scrum-DA1212?style=flat)
 ![Agile](https://img.shields.io/badge/-Agile-28A745?style=flat)
@@ -106,6 +106,9 @@ Welcome to my GitHub profile! I am Nguyễn Thị Châu Khâu, a QA/QC professio
 [![Tongram Swap](https://img.shields.io/badge/-Tongram_Swap-FB8C00?style=flat&logo=appveyor)](https://dex.tongram.app/) 
 [![Pools Winery](https://img.shields.io/badge/-Pools_Winery-FB8C00?style=flat&logo=appveyor)](https://poolswinery.it/) 
 
+[![Piston](https://img.shields.io/badge/-Pools_Winery-DC3545?style=flat&logo=appveyor)](https://t.me/piston_hub_bot/pistonhub) 
+
+[![Tongram](https://img.shields.io/badge/-Pools_Winery-20C997?style=flat&logo=appveyor)](https://tongram.app/) 
 
 ## 🏆 Portfolio Details - Summary of project details
 [![Canva](https://img.shields.io/badge/-Canva-00BDAA?style=flat&logo=canva)](https://s.net.vn/2w4i)
