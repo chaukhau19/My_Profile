@@ -106,9 +106,9 @@ Welcome to my GitHub profile! I am Nguyễn Thị Châu Khâu, a QA/QC professio
 [![Tongram Swap](https://img.shields.io/badge/-Tongram_Swap-FB8C00?style=flat&logo=appveyor)](https://dex.tongram.app/) 
 [![Pools Winery](https://img.shields.io/badge/-Pools_Winery-FB8C00?style=flat&logo=appveyor)](https://poolswinery.it/) 
 
-[![Piston](https://img.shields.io/badge/-Pools_Winery-DC3545?style=flat&logo=appveyor)](https://t.me/piston_hub_bot/pistonhub) 
+[![Piston](https://img.shields.io/badge/-Piston-DC3545?style=flat&logo=appveyor)](https://t.me/piston_hub_bot/pistonhub) 
 
-[![Tongram](https://img.shields.io/badge/-Pools_Winery-20C997?style=flat&logo=appveyor)](https://tongram.app/) 
+[![Tongram](https://img.shields.io/badge/-Tongram-20C997?style=flat&logo=appveyor)](https://tongram.app/) 
 
 ## 🏆 Portfolio Details - Summary of project details
 [![Canva](https://img.shields.io/badge/-Canva-00BDAA?style=flat&logo=canva)](https://s.net.vn/2w4i)
