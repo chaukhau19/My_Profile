@@ -89,26 +89,26 @@ Welcome to my GitHub profile! I am Nguyễn Thị Châu Khâu, a QA/QC professio
 ### ***Project***
 [![Cirpack](https://img.shields.io/badge/-Cirpack-1E90FF?style=flat)](https://www.cirpack.com/)
 
-[![Bestmed](https://img.shields.io/badge/-Bestmed-28A745?style=flat&logo=appveyor)](https://bestmed.au/) 
+[![Bestmed](https://img.shields.io/badge/-Bestmed-28A745?style=flat&logo=healthcare)](https://bestmed.au/) 
 
-[![Busai Music](https://img.shields.io/badge/-Busai_Music-6F42C1?style=flat&logo=appveyor)](https://music.busai.me/new_music) 
+[![Busai Music](https://img.shields.io/badge/-Busai_Music-6F42C1?style=flat&logo=music)](https://music.busai.me/new_music)
 
-[![Tonic](https://img.shields.io/badge/-Tonic-FFC107?style=flat&logo=appveyor)](https://tonic.tongram.app/en) 
+[![Tonic](https://img.shields.io/badge/-Tonic-FFC107?style=flat&logo=cart)](https://tonic.tongram.app/en) 
 
-[![Friendify GPT](https://img.shields.io/badge/-Friendify_GPT-17A2B8?style=flat&logo=appveyor)](https://friendify.ai/) 
-[![Busai GPT](https://img.shields.io/badge/-Busai_GPT-17A2B8?style=flat&logo=appveyor)](https://gpt.busai.me/) 
-[![Ton Translate](https://img.shields.io/badge/-Ton_Translate-17A2B8?style=flat&logo=appveyor)](https://gpt.busai.me/welcome) 
-[![AI Vocaloid](https://img.shields.io/badge/-AI_Vocaloid-17A2B8?style=flat&logo=appveyor)](https://ari.aurumai.io/dashboard/) 
+[![Friendify GPT](https://img.shields.io/badge/-Friendify_GPT-17A2B8?style=flat&logo=openai)](https://friendify.ai/) 
+[![Busai GPT](https://img.shields.io/badge/-Busai_GPT-17A2B8?style=flat&logo=openai)](https://gpt.busai.me/)
+[![Ton Translate](https://img.shields.io/badge/-Ton_Translate-17A2B8?style=flat&logo=openai)](https://gpt.busai.me/welcome) 
+[![AI Vocaloid](https://img.shields.io/badge/-AI_Vocaloid-17A2B8?style=flat&logo=openai)](https://ari.aurumai.io/dashboard/) 
 
-[![Winery Finance](https://img.shields.io/badge/-Winery_Finance-FB8C00?style=flat&logo=appveyor)](https://winery.finance/info/overview) 
-[![Pools Winery Swap](https://img.shields.io/badge/-Pools_Winery_Swap-FB8C00?style=flat&logo=appveyor)](https://swap.poolswinery.it/swap) 
-[![Pools Winery Transactions](https://img.shields.io/badge/-Pools_Winery_Transactions-FB8C00?style=flat&logo=appveyor)](https://bridge.poolswinery.it/transactions) 
-[![Tongram Swap](https://img.shields.io/badge/-Tongram_Swap-FB8C00?style=flat&logo=appveyor)](https://dex.tongram.app/) 
-[![Pools Winery](https://img.shields.io/badge/-Pools_Winery-FB8C00?style=flat&logo=appveyor)](https://poolswinery.it/) 
+[![Winery Finance](https://img.shields.io/badge/-Winery_Finance-FB8C00?style=flat&logo=blockchain)](https://winery.finance/info/overview) 
+[![Pools Winery Swap](https://img.shields.io/badge/-Pools_Winery_Swap-FB8C00?style=flat&logo=blockchain)](https://swap.poolswinery.it/swap) 
+[![Pools Winery Transactions](https://img.shields.io/badge/-Pools_Winery_Transactions-FB8C00?style=flat&logo=blockchain)](https://bridge.poolswinery.it/transactions) 
+[![Tongram Swap](https://img.shields.io/badge/-Tongram_Swap-FB8C00?style=flat&logo=blockchain)](https://dex.tongram.app/) 
+[![Pools Winery](https://img.shields.io/badge/-Pools_Winery-FB8C00?style=flat&logo=blockchain)](https://poolswinery.it/) 
 
-[![Piston](https://img.shields.io/badge/-Piston-DC3545?style=flat&logo=appveyor)](https://t.me/piston_hub_bot/pistonhub) 
+[![Piston](https://img.shields.io/badge/-Piston-DC3545?style=flat&logo=telegram)](https://t.me/piston_hub_bot/pistonhub) 
 
-[![Tongram](https://img.shields.io/badge/-Tongram-20C997?style=flat&logo=appveyor)](https://tongram.app/) 
+[![Tongram](https://img.shields.io/badge/-Tongram-20C997?style=flat&logo=puzzle)](https://tongram.app/) 
 
 ## 🏆 Portfolio Details - Summary of project details (Critical)
 [![Canva](https://img.shields.io/badge/-Canva-00BDAA?style=flat&logo=canva)](https://s.net.vn/2w4i)
