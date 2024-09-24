@@ -87,7 +87,7 @@ Welcome to my GitHub profile! I am Nguyễn Thị Châu Khâu, a QA/QC professio
 ![DApp](https://img.shields.io/badge/-DApp-20C997?style=flat)
 
 ### ***Project***
-[![Cirpack](https://img.shields.io/badge/-Cirpack-1E90FF?style=flat)](https://www.cirpack.com/)
+[![Cirpack](https://img.shields.io/badge/-Cirpack-1E90FF?style=signal)](https://www.cirpack.com/)
 
 [![Bestmed](https://img.shields.io/badge/-Bestmed-28A745?style=flat&logo=healthcare)](https://bestmed.au/) 
 
@@ -101,7 +101,7 @@ Welcome to my GitHub profile! I am Nguyễn Thị Châu Khâu, a QA/QC professio
 [![AI Vocaloid](https://img.shields.io/badge/-AI_Vocaloid-17A2B8?style=flat&logo=openai)](https://ari.aurumai.io/dashboard/) 
 
 [![Winery Finance](https://img.shields.io/badge/-Winery_Finance-FB8C00?style=flat&logo=gamepad)](https://winery.finance/info/overview) 
-[![Pools Winery Swap](https://img.shields.io/badge/-Pools_Winery_Swap-FB8C00?style=flat&logo=blockchain)](https://swap.poolswinery.it/swap) 
+[![Pools Winery Swap](https://img.shields.io/badge/-Pools_Winery_Swap-FB8C00?style=flat&logo=bitcoin)](https://swap.poolswinery.it/swap) 
 [![Pools Winery Transactions](https://img.shields.io/badge/-Pools_Winery_Transactions-FB8C00?style=flat&logo=blockchain)](https://bridge.poolswinery.it/transactions) 
 [![Tongram Swap](https://img.shields.io/badge/-Tongram_Swap-FB8C00?style=flat&logo=blockchain)](https://dex.tongram.app/) 
 [![Pools Winery](https://img.shields.io/badge/-Pools_Winery-FB8C00?style=flat&logo=blockchain)](https://poolswinery.it/) 
