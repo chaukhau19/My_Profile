@@ -110,7 +110,7 @@ Welcome to my GitHub profile! I am Nguyễn Thị Châu Khâu, a QA/QC professio
 
 [![Tongram](https://img.shields.io/badge/-Tongram-20C997?style=flat&logo=appveyor)](https://tongram.app/) 
 
-## 🏆 Portfolio Details - Summary of project details
+## 🏆 Portfolio Details - Summary of project details (Critical)
 [![Canva](https://img.shields.io/badge/-Canva-00BDAA?style=flat&logo=canva)](https://s.net.vn/2w4i)
 
 ## 🏆 Achievements
