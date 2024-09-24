@@ -89,35 +89,35 @@ Welcome to my GitHub profile! I am Nguyễn Thị Châu Khâu, a QA/QC professio
 ### ***Telecom***
 | Project                                           |
 |--------------------------------------------------|
-| [![Cirpack](https://img.shields.io/badge/-Cirpack-FF6F61?style=flat&logo=appveyor)](https://www.cirpack.com/) |
+| [![Cirpack](https://img.shields.io/badge/-Cirpack-1E90FF?style=flat&logo=appveyor)](https://www.cirpack.com/) |
 
 ### ***Healthcare***
 | Project                                           |
 |--------------------------------------------------|
-| [![Bestmed](https://img.shields.io/badge/-Bestmed-FF6F61?style=flat&logo=appveyor)](https://bestmed.au/) |
+| [![Bestmed](https://img.shields.io/badge/-Bestmed-28A745?style=flat&logo=appveyor)](https://bestmed.au/) |
 
 ### ***Music***
 | Project                                           |
 |--------------------------------------------------|
-| [![Busai Music](https://img.shields.io/badge/-Busai_Music-FF6F61?style=flat&logo=appveyor)](https://music.busai.me/new_music) |
+| [![Busai Music](https://img.shields.io/badge/-Busai_Music-6F42C1?style=flat&logo=appveyor)](https://music.busai.me/new_music) |
 
 ### ***Ecommerce***
 | Project                                           |
 |--------------------------------------------------|
-| [![Tonic](https://img.shields.io/badge/-Tonic-FF6F61?style=flat&logo=appveyor)](https://tonic.tongram.app/en) |
+| [![Tonic](https://img.shields.io/badge/-Tonic-FFC107?style=flat&logo=appveyor)](https://tonic.tongram.app/en) |
 
 ### ***AI & Blockchain & Crypto***
 | Project                                           |
 |--------------------------------------------------|
-| [![Friendify GPT](https://img.shields.io/badge/-Friendify_GPT-FF6F61?style=flat&logo=appveyor)](https://friendify.ai/) |
-| [![Busai GPT](https://img.shields.io/badge/-Busai_GPT-FF6F61?style=flat&logo=appveyor)](https://gpt.busai.me/) |
-| [![Ton Translate](https://img.shields.io/badge/-Ton_Translate-FF6F61?style=flat&logo=appveyor)](https://gpt.busai.me/welcome) |
-| [![AI Vocaloid](https://img.shields.io/badge/-AI_Vocaloid-FF6F61?style=flat&logo=appveyor)](https://ari.aurumai.io/dashboard/) |
-| [![Winery Finance](https://img.shields.io/badge/-Winery_Finance-FF6F61?style=flat&logo=appveyor)](https://winery.finance/info/overview) |
-| [![Pools Winery Swap](https://img.shields.io/badge/-Pools_Winery_Swap-FF6F61?style=flat&logo=appveyor)](https://swap.poolswinery.it/swap) |
-| [![Pools Winery Transactions](https://img.shields.io/badge/-Pools_Winery_Transactions-FF6F61?style=flat&logo=appveyor)](https://bridge.poolswinery.it/transactions) |
-| [![Tongram Swap](https://img.shields.io/badge/-Tongram_Swap-FF6F61?style=flat&logo=appveyor)](https://dex.tongram.app/) |
-| [![Pools Winery](https://img.shields.io/badge/-Pools_Winery-FF6F61?style=flat&logo=appveyor)](https://poolswinery.it/) |
+| [![Friendify GPT](https://img.shields.io/badge/-Friendify_GPT-17A2B8?style=flat&logo=appveyor)](https://friendify.ai/) |
+| [![Busai GPT](https://img.shields.io/badge/-Busai_GPT-17A2B8?style=flat&logo=appveyor)](https://gpt.busai.me/) |
+| [![Ton Translate](https://img.shields.io/badge/-Ton_Translate-17A2B8?style=flat&logo=appveyor)](https://gpt.busai.me/welcome) |
+| [![AI Vocaloid](https://img.shields.io/badge/-AI_Vocaloid-17A2B8?style=flat&logo=appveyor)](https://ari.aurumai.io/dashboard/) |
+| [![Winery Finance](https://img.shields.io/badge/-Winery_Finance-17A2B8?style=flat&logo=appveyor)](https://winery.finance/info/overview) |
+| [![Pools Winery Swap](https://img.shields.io/badge/-Pools_Winery_Swap-17A2B8?style=flat&logo=appveyor)](https://swap.poolswinery.it/swap) |
+| [![Pools Winery Transactions](https://img.shields.io/badge/-Pools_Winery_Transactions-17A2B8?style=flat&logo=appveyor)](https://bridge.poolswinery.it/transactions) |
+| [![Tongram Swap](https://img.shields.io/badge/-Tongram_Swap-17A2B8?style=flat&logo=appveyor)](https://dex.tongram.app/) |
+| [![Pools Winery](https://img.shields.io/badge/-Pools_Winery-17A2B8?style=flat&logo=appveyor)](https://poolswinery.it/) |
 
 
 ## 🏆 Portfolio Details - Summary of project details
