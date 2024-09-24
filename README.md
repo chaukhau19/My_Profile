@@ -88,26 +88,19 @@ Welcome to my GitHub profile! I am Nguyễn Thị Châu Khâu, a QA/QC professio
 
 ### ***Project***
 [![Cirpack](https://img.shields.io/badge/Cirpack-1E90FF?style=flat-square)](https://www.cirpack.com/)
-
 [![Bestmed](https://img.shields.io/badge/-Bestmed-28A745?style=flat&logo=medical)](https://bestmed.au/)
-
 [![Busai Music](https://img.shields.io/badge/-Busai_Music-6F42C1?style=flat&logo=apple-music)](https://music.busai.me/new_music)
-
 [![Tonic](https://img.shields.io/badge/-Tonic-FFC107?style=flat&logo=shopify)](https://tonic.tongram.app/en) 
-
 [![Friendify GPT](https://img.shields.io/badge/-Friendify_GPT-17A2B8?style=flat&logo=openai)](https://friendify.ai/) 
 [![Busai GPT](https://img.shields.io/badge/-Busai_GPT-17A2B8?style=flat&logo=openai)](https://gpt.busai.me/)
 [![Ton Translate](https://img.shields.io/badge/-Ton_Translate-17A2B8?style=flat&logo=openai)](https://gpt.busai.me/welcome) 
 [![AI Vocaloid](https://img.shields.io/badge/-AI_Vocaloid-17A2B8?style=flat&logo=openai)](https://ari.aurumai.io/dashboard/) 
-
 [![Winery Finance](https://img.shields.io/badge/-Winery_Finance-FB8C00?style=flat&logo=bitcoin)](https://winery.finance/info/overview) 
 [![Pools Winery Swap](https://img.shields.io/badge/-Pools_Winery_Swap-FB8C00?style=flat&logo=bitcoin)](https://swap.poolswinery.it/swap) 
 [![Pools Winery Transactions](https://img.shields.io/badge/-Pools_Winery_Transactions-FB8C00?style=flat&logo=bitcoin)](https://bridge.poolswinery.it/transactions) 
 [![Tongram Swap](https://img.shields.io/badge/-Tongram_Swap-FB8C00?style=flat&logo=bitcoin)](https://dex.tongram.app/) 
 [![Pools Winery](https://img.shields.io/badge/-Pools_Winery-FB8C00?style=flat&logo=bitcoin)](https://poolswinery.it/) 
-
 [![Piston](https://img.shields.io/badge/-Piston-DC3545?style=flat&logo=telegram)](https://t.me/piston_hub_bot/pistonhub) 
-
 [![Tongram](https://img.shields.io/badge/-Tongram-20C997?style=flat&logo=Solana)](https://tongram.app/) 
 
 ## 🏆 Portfolio Details - Summary of project details (Critical)
