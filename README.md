@@ -100,7 +100,7 @@ Welcome to my GitHub profile! I am Nguyễn Thị Châu Khâu, a QA/QC professio
 [![Ton Translate](https://img.shields.io/badge/-Ton_Translate-17A2B8?style=flat&logo=openai)](https://gpt.busai.me/welcome) 
 [![AI Vocaloid](https://img.shields.io/badge/-AI_Vocaloid-17A2B8?style=flat&logo=openai)](https://ari.aurumai.io/dashboard/) 
 
-[![Winery Finance](https://img.shields.io/badge/-Winery_Finance-FB8C00?style=flat&logo=blockchain)](https://winery.finance/info/overview) 
+[![Winery Finance](https://img.shields.io/badge/-Winery_Finance-FB8C00?style=flat&logo=gamepad)](https://winery.finance/info/overview) 
 [![Pools Winery Swap](https://img.shields.io/badge/-Pools_Winery_Swap-FB8C00?style=flat&logo=blockchain)](https://swap.poolswinery.it/swap) 
 [![Pools Winery Transactions](https://img.shields.io/badge/-Pools_Winery_Transactions-FB8C00?style=flat&logo=blockchain)](https://bridge.poolswinery.it/transactions) 
 [![Tongram Swap](https://img.shields.io/badge/-Tongram_Swap-FB8C00?style=flat&logo=blockchain)](https://dex.tongram.app/) 
