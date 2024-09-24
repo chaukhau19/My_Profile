@@ -75,6 +75,17 @@ Welcome to my GitHub profile! I am Nguyễn Thị Châu Khâu, a QA/QC professio
 
 ## 🌿 Highlighted Projects
 
+### Domains
+
+![Telecom](https://img.shields.io/badge/-Telecom-1E90FF?style=flat) 
+![Healthcare](https://img.shields.io/badge/-Healthcare-28A745?style=flat) 
+![Music](https://img.shields.io/badge/-Music-6F42C1?style=flat) 
+![Ecommerce](https://img.shields.io/badge/-Ecommerce-FFC107?style=flat) 
+![AI](https://img.shields.io/badge/-AI-17A2B8?style=flat) 
+![Crypto](https://img.shields.io/badge/-Crypto-FB8C00?style=flat) 
+![Games](https://img.shields.io/badge/-Games-DC3545?style=flat) 
+![DApp](https://img.shields.io/badge/-DApp-20C997?style=flat)
+
 ### ***Telecom***
 | Project                                           |
 |--------------------------------------------------|
@@ -95,8 +106,6 @@ Welcome to my GitHub profile! I am Nguyễn Thị Châu Khâu, a QA/QC professio
 |--------------------------------------------------|
 | [![Tonic](https://img.shields.io/badge/-Tonic-FF6F61?style=flat&logo=appveyor)](https://tonic.tongram.app/en) |
 
----
-
 ### ***AI & Blockchain & Crypto***
 | Project                                           |
 |--------------------------------------------------|
@@ -110,17 +119,6 @@ Welcome to my GitHub profile! I am Nguyễn Thị Châu Khâu, a QA/QC professio
 | [![Tongram Swap](https://img.shields.io/badge/-Tongram_Swap-FF6F61?style=flat&logo=appveyor)](https://dex.tongram.app/) |
 | [![Pools Winery](https://img.shields.io/badge/-Pools_Winery-FF6F61?style=flat&logo=appveyor)](https://poolswinery.it/) |
 
----
-
-### Domains
-![Telecom](https://img.shields.io/badge/-Telecom-FF6F61?style=flat) 
-![Healthcare](https://img.shields.io/badge/-Healthcare-FF6F61?style=flat) 
-![Music](https://img.shields.io/badge/-Music-FF6F61?style=flat) 
-![Ecommerce](https://img.shields.io/badge/-Ecommerce-FF6F61?style=flat) 
-![AI](https://img.shields.io/badge/-AI-FF6F61?style=flat) 
-![Crypto](https://img.shields.io/badge/-Crypto-FF6F61?style=flat) 
-![Games](https://img.shields.io/badge/-Games-FF6F61?style=flat) 
-![DApp](https://img.shields.io/badge/-DApp-FF6F61?style=flat) 
 
 ## 🏆 Portfolio Details - Summary of project details
 [![Canva](https://img.shields.io/badge/-Canva-00BDAA?style=flat&logo=canva)](https://s.net.vn/2w4i)
