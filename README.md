@@ -87,13 +87,13 @@ Welcome to my GitHub profile! I am Nguyễn Thị Châu Khâu, a QA/QC professio
 ![DApp](https://img.shields.io/badge/-DApp-20C997?style=flat)
 
 ### ***Project***
-[![Cirpack](https://img.shields.io/badge/-Cirpack-1E90FF?style=5g)](https://www.cirpack.com/)
+[![Cirpack](https://img.shields.io/badge/-Cirpack-1E90FF?style=wi-fi)](https://www.cirpack.com/)
 
-[![Bestmed](https://img.shields.io/badge/-Bestmed-28A745?style=flat&logo=healthcare)](https://bestmed.au/) 
+[![Bestmed](https://img.shields.io/badge/-Bestmed-28A745?style=flat&logo=red-cross)](https://bestmed.au/) 
 
 [![Busai Music](https://img.shields.io/badge/-Busai_Music-6F42C1?style=flat&logo=apple-music)](https://music.busai.me/new_music)
 
-[![Tonic](https://img.shields.io/badge/-Tonic-FFC107?style=flat&logo=cart)](https://tonic.tongram.app/en) 
+[![Tonic](https://img.shields.io/badge/-Tonic-FFC107?style=flat&logo=shopify)](https://tonic.tongram.app/en) 
 
 [![Friendify GPT](https://img.shields.io/badge/-Friendify_GPT-17A2B8?style=flat&logo=openai)](https://friendify.ai/) 
 [![Busai GPT](https://img.shields.io/badge/-Busai_GPT-17A2B8?style=flat&logo=openai)](https://gpt.busai.me/)
