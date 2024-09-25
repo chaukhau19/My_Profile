@@ -85,8 +85,8 @@ Welcome to my GitHub profile! I am Nguyễn Thị Châu Khâu, a QA/QC professio
 ![DApp](https://img.shields.io/badge/-DApp-20C997?style=flat&logo=Solana)
 
 ### ***Projects***
-[![Cirpack](https://img.shields.io/badge/Cirpack-1E90FF?style=flat-square)](https://www.cirpack.com/)
-[![Bestmed](https://img.shields.io/badge/-Bestmed-28A745?style=flat&logo=medical)](https://bestmed.au/)
+[![Cirpack](https://img.shields.io/badge/Cirpack-1E90FF?style=phone)](https://www.cirpack.com/)
+[![Bestmed](https://img.shields.io/badge/-Bestmed-28A745?style=flat&logo=capsules)](https://bestmed.au/)
 [![Busai Music](https://img.shields.io/badge/-Busai_Music_Web-6F42C1?style=flat&logo=apple-music)](https://music.busai.me/new_music)
 [![Busai Music](https://img.shields.io/badge/-Busai_Music_App-6F42C1?style=flat&logo=apple-music)](https://music.busai.me/new_music)
 [![Tonic](https://img.shields.io/badge/-Tonic_Web-FFC107?style=flat&logo=shopify)](https://tonic.tongram.app/en) 
@@ -109,9 +109,9 @@ Welcome to my GitHub profile! I am Nguyễn Thị Châu Khâu, a QA/QC professio
 ## 🏆 Achievements
 - 🐞 Identified and reported critical bugs, reducing post-release errors by 99%, ensuring customer satisfaction.
 - 🚀 Built automation from scratch for many projects, integrating with CI/CD pipelines to ensure seamless and continuous delivery.
-- ✅ Successfully managed and implemented more than 15,000 test cases on many different versions.
+- ✅ Successfully managed and implemented over 15,000 test cases on many different versions.
 - ⚙️ Developed and customized automation frameworks, improving testing efficiency by 99% and expanding testing scope across different platforms.
-- ⏱️ Reduced automatic test execution time by 30% with 100% passing rate, shortening overall release cycles.
+- ⏱️ Reduced automatic test execution time by 30% with a 100% passing rate, shortening overall release cycles.
 - ⏳ Reduced manual daily tasks by automating repetitive processes, cutting 2 hours of work per day.
 
 ## 📫 Connect with me:
