@@ -104,12 +104,12 @@ Welcome to my GitHub profile! I am Nguyễn Thị Châu Khâu, a QA/QC professio
 [![Canva](https://img.shields.io/badge/-Canva-00BDAA?style=flat&logo=canva)](https://s.net.vn/2w4i)
 
 ## 🏆 Achievements
-🐞 Identified and reported critical bugs, reducing post-release errors by 99%, ensuring customer satisfaction.
-🚀 Built automation from scratch for many projects, integrating with CI/CD pipelines to ensure seamless and continuous delivery.
-✅ Successfully managed and implemented more than 15,000 test cases on many different versions.
-⚙️ Developed and customized automation frameworks, improving testing efficiency by 99% and expanding testing scope across different platforms.
-⏱️ Reduced automatic test execution time by 30% with 100% passing rate, shortening overall release cycles.
-⏳ Reduced manual daily tasks by automating repetitive processes, cutting 2 hours of work per day.
+- 🐞 Identified and reported critical bugs, reducing post-release errors by 99%, ensuring customer satisfaction.
+- 🚀 Built automation from scratch for many projects, integrating with CI/CD pipelines to ensure seamless and continuous delivery.
+- ✅ Successfully managed and implemented more than 15,000 test cases on many different versions.
+- ⚙️ Developed and customized automation frameworks, improving testing efficiency by 99% and expanding testing scope across different platforms.
+- ⏱️ Reduced automatic test execution time by 30% with 100% passing rate, shortening overall release cycles.
+- ⏳ Reduced manual daily tasks by automating repetitive processes, cutting 2 hours of work per day.
 
 ## 📫 Connect with me:
 [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail)](mailto:chaukhau2000@gmail.com)
