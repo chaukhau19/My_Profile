@@ -88,6 +88,7 @@ Welcome to my GitHub profile! I am Nguyễn Thị Châu Khâu, a QA/QC professio
 [![Cirpack](https://img.shields.io/badge/Cirpack-1E90FF?style=flat-square)](https://www.cirpack.com/)
 [![Bestmed](https://img.shields.io/badge/-Bestmed-28A745?style=flat&logo=medical)](https://bestmed.au/)
 [![Busai Music](https://img.shields.io/badge/-Busai_Music_Web-6F42C1?style=flat&logo=apple-music)](https://music.busai.me/new_music)
+[![Busai Music](https://img.shields.io/badge/-Busai_Music_App-6F42C1?style=flat&logo=apple-music)](https://music.busai.me/new_music)
 [![Tonic](https://img.shields.io/badge/-Tonic_Web-FFC107?style=flat&logo=shopify)](https://tonic.tongram.app/en) 
 [![Friendify GPT](https://img.shields.io/badge/-Friendify_GPT_Web-17A2B8?style=flat&logo=openai)](https://friendify.ai/) 
 [![Friendify GPT](https://img.shields.io/badge/-Friendify_GPT_App-17A2B8?style=flat&logo=openai)](https://play.google.com/store/apps/details?id=friendify.playground) 
@@ -96,13 +97,11 @@ Welcome to my GitHub profile! I am Nguyễn Thị Châu Khâu, a QA/QC professio
 [![Ton Translate](https://img.shields.io/badge/-Ton_Translate_App-17A2B8?style=flat&logo=openai)](https://play.google.com/store/apps/details?id=com.tontranslate.tt) 
 [![AI Vocaloid](https://img.shields.io/badge/-AI_Vocaloid_Web-17A2B8?style=flat&logo=openai)](https://ari.aurumai.io/dashboard/) 
 [![Winery Finance](https://img.shields.io/badge/-Winery_Finance_Web-FB8C00?style=flat&logo=bitcoin)](https://winery.finance/info/overview) 
-[![Tongram Swap](https://img.shields.io/badge/-Tongram_Swap_Web-FB8C00?style=flat&logo=bitcoin)](https://dex.tongram.app/) 
 [![Pools Winery](https://img.shields.io/badge/-Pools_Winery_Web-FB8C00?style=flat&logo=bitcoin)](https://poolswinery.it/) 
 [![Pools Wallet](https://img.shields.io/badge/-Pools_Wallet_App-FB8C00?style=flat&logo=bitcoin)](https://play.google.com/store/apps/details?id=com.wallet.pools) 
-[![Pools Winery Swap](https://img.shields.io/badge/-Pools_Winery_Swap_Web-FB8C00?style=flat&logo=bitcoin)](https://swap.poolswinery.it/swap) 
 [![Piston](https://img.shields.io/badge/-Piston_App-DC3545?style=flat&logo=telegram)](https://t.me/piston_hub_bot/pistonhub) 
 [![Tongram](https://img.shields.io/badge/-Tongram_Web-20C997?style=flat&logo=Solana)](https://tongram.app/)
-
+[![Tongram](https://img.shields.io/badge/-Tongram_App-20C997?style=flat&logo=Solana)](https://t.me/tongram_app_dev_bot/appcenter)
 
 ## 🏆 Portfolio Details - Summary of project details (Critical)
 [![Canva](https://img.shields.io/badge/-Canva-00BDAA?style=flat&logo=canva)](https://s.net.vn/2w4i)
