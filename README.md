@@ -77,12 +77,12 @@ Welcome to my GitHub profile! I am Nguyễn Thị Châu Khâu, a QA/QC professio
 
 ![Telecom](https://img.shields.io/badge/-Telecom-1E90FF?style=flat) 
 ![Healthcare](https://img.shields.io/badge/-Healthcare-28A745?style=flat) 
-![Music](https://img.shields.io/badge/-Music-6F42C1?style=flat) 
-![Ecommerce](https://img.shields.io/badge/-Ecommerce-FFC107?style=flat) 
-![AI](https://img.shields.io/badge/-AI-17A2B8?style=flat) 
-![Crypto](https://img.shields.io/badge/-Crypto-FB8C00?style=flat) 
-![Games](https://img.shields.io/badge/-Games-DC3545?style=flat) 
-![DApp](https://img.shields.io/badge/-DApp-20C997?style=flat)
+![Music](https://img.shields.io/badge/-Music-6F42C1?style=flat&logo=apple-music) 
+![Ecommerce](https://img.shields.io/badge/-Ecommerce-FFC107?style=flat&logo=shopify) 
+![AI](https://img.shields.io/badge/-AI-17A2B8?style=flat&logo=openai) 
+![Crypto](https://img.shields.io/badge/-Crypto-FB8C00?style=flat&logo=bitcoin) 
+![Games](https://img.shields.io/badge/-Games-DC3545?style=flat&logo=telegram) 
+![DApp](https://img.shields.io/badge/-DApp-20C997?style=flat&logo=Solana)
 
 ### ***Projects***
 [![Cirpack](https://img.shields.io/badge/Cirpack-1E90FF?style=flat-square)](https://www.cirpack.com/)
