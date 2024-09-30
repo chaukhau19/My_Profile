@@ -105,6 +105,7 @@ Welcome to my GitHub profile! I am Nguyễn Thị Châu Khâu, a QA/QC professio
 
 ## 🏆 Portfolio Details - Summary of project details (Critical)
 [![Canva](https://img.shields.io/badge/-Canva-00BDAA?style=flat&logo=canva)](https://s.net.vn/2w4i)
+[![CV](https://img.shields.io/badge/-CV-4B0082?style=flat&logo=pdf)](https://www.topcv.vn/xem-cv/BAkEVlpUC1FTAQdSDFYADgVXUwFcXF5RDlVdAQcf27?ta_source=EditCVInAfterSaveCV)
 
 ## 🏆 Achievements
 - 🐞 Identified and reported critical bugs, reducing post-release errors by 99%, ensuring customer satisfaction.
