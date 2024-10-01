@@ -37,7 +37,6 @@ Welcome to my GitHub profile! I am Nguyễn Thị Châu Khâu, a QA/QC professio
 ![SoapUI](https://img.shields.io/badge/-SoapUI-green?style=flat&logo=soapui)
 ![Appium](https://img.shields.io/badge/-Appium-purple?style=flat&logo=appium)
 ![Playwright](https://img.shields.io/badge/-Playwright-brightgreen?style=flat&logo=playwright)
-![JMeter](https://img.shields.io/badge/-JMeter-red?style=flat&logo=apachejmeter)
 
 ### ***Languages & Development***
 ![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python)
